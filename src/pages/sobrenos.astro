@@ -1,0 +1,104 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout title="Sobre Nós | Anfitrião Piçarras" description="Conheça a história, missão e valores da Anfitrião Piçarras. Especialistas em gestão de aluguel por temporada.">
+  <main>
+    <!-- Hero Section -->
+    <section class="relative bg-slate-900 py-32 md:py-48 overflow-hidden">
+      <div class="absolute inset-0 z-0">
+        <img 
+          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=85" 
+          alt="Orla de Balneário Piçarras" 
+          class="w-full h-full object-cover opacity-50"
+        />
+        <div class="absolute inset-0 bg-gradient-to-b from-slate-900/60 via-slate-900/40 to-slate-50"></div>
+      </div>
+      <div class="container mx-auto px-4 relative z-10 text-center">
+        <h1 class="text-5xl md:text-7xl font-black text-white tracking-tight animate-fade-in">
+          Sobre <span class="text-orange-500">Nós</span>
+        </h1>
+      </div>
+    </section>
+
+    <!-- Missão / Visão / Valores Grid -->
+    <section class="py-20 bg-slate-50">
+      <div class="container mx-auto px-4 max-w-7xl">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <!-- Missão -->
+          <div class="bg-white p-10 rounded-[2rem] shadow-sm border border-slate-100 hover:shadow-xl transition-shadow">
+            <div class="w-14 h-14 bg-orange-100 text-orange-600 rounded-2xl flex items-center justify-center mb-6">
+              <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+            </div>
+            <h2 class="text-2xl font-bold text-slate-900 mb-4">Missão</h2>
+            <p class="text-slate-600 leading-relaxed">
+              Gerar resultados financeiros consistentes para os proprietários e investidores, através de estratégias eficientes de gestão. Promover uma experiência de conforto, tranquilidade e diversão para os nossos hóspedes.
+            </p>
+          </div>
+
+          <!-- Visão -->
+          <div class="bg-white p-10 rounded-[2rem] shadow-sm border border-slate-100 hover:shadow-xl transition-shadow">
+            <div class="w-14 h-14 bg-blue-100 text-blue-600 rounded-2xl flex items-center justify-center mb-6">
+              <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path></svg>
+            </div>
+            <h2 class="text-2xl font-bold text-slate-900 mb-4">Visão</h2>
+            <p class="text-slate-600 leading-relaxed">
+              Ser reconhecida como líder em hospedagem de curta temporada no litoral norte catarinense, mantendo o mais alto padrão de qualidade em todas as nossas operações e hospitalidade.
+            </p>
+          </div>
+
+          <!-- Valores -->
+          <div class="bg-white p-10 rounded-[2rem] shadow-sm border border-slate-100 hover:shadow-xl transition-shadow">
+            <div class="w-14 h-14 bg-green-100 text-green-600 rounded-2xl flex items-center justify-center mb-6">
+              <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+            </div>
+            <h2 class="text-2xl font-bold text-slate-900 mb-4">Valores</h2>
+            <ul class="text-slate-600 space-y-2 text-sm">
+              <li>• Amor e dedicação a tudo que se faz</li>
+              <li>• Carinho e respeito aos clientes e hóspedes</li>
+              <li>• Responsabilidade e transparência</li>
+              <li>• Excelência e visão holística</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- História Section -->
+    <section class="py-24 bg-white">
+      <div class="container mx-auto px-4 max-w-4xl">
+        <div class="text-center mb-16">
+          <span class="text-orange-600 font-black uppercase tracking-widest text-sm">Nossa História</span>
+          <h2 class="text-4xl md:text-5xl font-black text-slate-900 mt-4 leading-tight">O seu parceiro de confiança</h2>
+        </div>
+        <div class="prose prose-slate prose-xl max-w-none text-slate-700 leading-relaxed">
+          <p>
+            O Anfitrião Piçarras nasceu da necessidade de trazer uma solução para as dores de locação de temporada. Com conhecimento no mercado local, marketing digital e jornada do hóspede, somos dedicados em oferecer um serviço de excelência.
+          </p>
+          <p>
+            Garantimos a satisfação dos hóspedes e a transparência em nosso trabalho. Estamos prontos para impulsionar o sucesso do seu imóvel e aumentar a lucratividade através de processos modernos de gestão.
+          </p>
+          <p>
+            Somos uma equipe dedicada em oferecer o melhor atendimento para proprietários e hóspedes, transformando e melhorando as experiências nas acomodações. Sabemos da importância de cada detalhe.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-20 bg-orange-600">
+      <div class="container mx-auto px-4 text-center">
+        <h2 class="text-3xl md:text-4xl font-black text-white mb-8">Ficou alguma dúvida? Mande uma mensagem!</h2>
+        <a 
+          href="https://wa.me/5547996372129" 
+          target="_blank"
+          class="inline-block bg-white text-orange-600 px-12 py-5 rounded-full font-black text-xl hover:scale-105 transition-transform shadow-xl"
+        >
+          FALAR NO WHATSAPP
+        </a>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</Layout>

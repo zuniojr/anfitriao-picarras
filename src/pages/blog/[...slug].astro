@@ -1,0 +1,58 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Footer from '../../components/Footer.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('blog');
+	return posts.map((post) => ({
+		params: { slug: post.slug },
+		props: post,
+	}));
+}
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<Layout title={post.data.title} description={post.data.description}>
+	<article class="bg-white pt-24 pb-16">
+		<div class="container mx-auto px-4 max-w-4xl">
+			{post.data.heroImage && (
+				<img 
+					src={post.data.heroImage} 
+					alt={post.data.title} 
+					class="w-full h-[400px] object-cover rounded-3xl mb-12 shadow-lg"
+				/>
+			)}
+			<div class="prose prose-slate prose-lg max-w-none">
+				<h1 class="text-4xl md:text-5xl font-extrabold text-slate-900 mb-6 leading-tight">
+					{post.data.title}
+				</h1>
+				<div class="flex items-center text-slate-500 mb-10 text-sm">
+					<span>Publicado em {post.data.pubDate.toLocaleDateString('pt-BR')}</span>
+				</div>
+				<Content />
+			</div>
+			
+			<div class="mt-16 pt-10 border-t border-slate-100">
+				<a href="/" class="text-blue-600 font-bold flex items-center hover:translate-x-[-10px] transition-transform">
+					<svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+					Voltar para página inicial
+				</a>
+			</div>
+		</div>
+	</article>
+	<Footer />
+</Layout>
+
+<style is:global>
+	/* Estilos para o conteúdo do blog (Markdown) */
+	.prose h2 { @apply text-3xl font-bold text-slate-900 mt-12 mb-6; }
+	.prose h3 { @apply text-2xl font-bold text-slate-900 mt-8 mb-4; }
+	.prose p { @apply text-slate-700 leading-relaxed mb-6; }
+	.prose ul { @apply list-disc list-inside mb-6 space-y-2 text-slate-700; }
+	.prose ol { @apply list-decimal list-inside mb-6 space-y-2 text-slate-700; }
+	.prose img { @apply rounded-2xl my-10 shadow-md; }
+	.prose a { @apply text-blue-600 underline hover:text-blue-700; }
+</style>

@@ -1,38 +1,50 @@
 ---
 ---
-<section class="relative bg-white pt-[100px] pb-[80px] lg:pt-[150px] lg:pb-[100px]">
-  <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
-    <div class="flex flex-wrap items-center -mx-4">
-      <div class="w-full lg:w-5/12 px-4">
-        <div class="hero-content">
-          <h1 class="mb-5 text-4xl font-extrabold leading-tight text-slate-900 sm:text-5xl sm:leading-tight lg:text-5xl lg:leading-tight">
-            Tranquilidade para você. Rentabilidade para o seu imóvel.
-          </h1>
-          <p class="mb-8 max-w-[480px] text-base text-slate-600 sm:text-lg">
-            Gestão completa e profissional de propriedades para locação por temporada em Balneário Piçarras e região - SC.
-          </p>
-          <ul class="flex flex-wrap items-center gap-4">
-            <li>
-              <a href="#como-funciona" class="inline-flex items-center justify-center rounded-lg bg-blue-600 py-4 px-6 text-base font-medium text-white transition duration-300 hover:bg-blue-700 shadow-lg hover:shadow-blue-500/30">
-                Descubra Como Funciona
-              </a>
-            </li>
-            <li>
-              <a href="#contato" class="inline-flex items-center justify-center rounded-lg bg-transparent py-4 px-6 text-base font-medium text-slate-900 border border-slate-300 transition duration-300 hover:bg-slate-50 hover:border-slate-400">
-                Falar com Consultor
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="hidden px-4 lg:block lg:w-1/12"></div>
-      <div class="w-full px-4 lg:w-6/12 mt-12 lg:mt-0">
-        <div class="lg:ml-auto lg:text-right relative">
-          <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80" alt="Imóvel em Piçarras" class="max-w-full rounded-2xl shadow-2xl relative z-10" />
-          <div class="absolute -bottom-6 -left-6 z-0 w-64 h-64 bg-blue-100 rounded-full mix-blend-multiply filter blur-2xl opacity-70 animate-blob"></div>
-          <div class="absolute -top-6 -right-6 z-0 w-64 h-64 bg-yellow-100 rounded-full mix-blend-multiply filter blur-2xl opacity-70 animate-blob animation-delay-2000"></div>
-        </div>
+<section class="relative bg-slate-900 min-h-screen flex items-center overflow-hidden">
+  <!-- Fundo com Imagem Dinâmica e Overlay -->
+  <div class="absolute inset-0 z-0">
+    <img 
+      src="https://images.unsplash.com/photo-1541604193435-225878996aba?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=85" 
+      alt="Vista de Balneário Piçarras" 
+      class="w-full h-full object-cover opacity-60 scale-105 animate-slow-zoom"
+    />
+    <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/40 to-slate-900/60"></div>
+  </div>
+
+  <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl relative z-10 pt-20">
+    <div class="max-w-3xl">
+      <h1 class="text-5xl md:text-7xl font-black text-white leading-tight mb-6 animate-fade-in-up">
+        Gestão Profissional de Imóveis para <span class="text-orange-500">Temporada</span>
+      </h1>
+      <p class="text-xl md:text-2xl text-slate-200 mb-10 leading-relaxed max-w-2xl animate-fade-in-up animation-delay-200">
+        Tranquilidade para o proprietário, rentabilidade para o investimento e experiências inesquecíveis para o hóspede em Balneário Piçarras.
+      </p>
+      
+      <div class="flex flex-wrap gap-4 animate-fade-in-up animation-delay-400">
+        <a href="#como-funciona" class="bg-orange-600 hover:bg-orange-700 text-white px-10 py-5 rounded-full font-black text-lg transition-all hover:scale-110 shadow-2xl shadow-orange-900/40">
+          QUERO RENTABILIZAR
+        </a>
+        <a href="https://wa.me/5547996372129" class="bg-white/10 hover:bg-white/20 backdrop-blur-md text-white border border-white/30 px-10 py-5 rounded-full font-black text-lg transition-all">
+          FALAR NO WHATSAPP
+        </a>
       </div>
     </div>
   </div>
+
+  <!-- Scroll Indicator -->
+  <div class="absolute bottom-10 left-1/2 -translate-x-1/2 animate-bounce">
+    <svg class="w-8 h-8 text-white/50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+    </svg>
+  </div>
 </section>
+
+<style>
+  @keyframes slow-zoom {
+    from { transform: scale(1); }
+    to { transform: scale(1.1); }
+  }
+  .animate-slow-zoom {
+    animation: slow-zoom 20s infinite alternate ease-in-out;
+  }
+</style>

@@ -1,0 +1,39 @@
+---
+const features = [
+  {
+    title: "Gestão Integrada",
+    description: "Cuidamos de tudo: desde o marketing do seu imóvel até a precificação inteligente para maximizar seus ganhos.",
+    icon: `<svg class="w-7 h-7 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>`
+  },
+  {
+    title: "Limpeza e Manutenção",
+    description: "Equipe especializada para manter seu imóvel sempre limpo, seguro e com manutenção preventiva em dia.",
+    icon: `<svg class="w-7 h-7 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>`
+  },
+  {
+    title: "Atendimento 24/7",
+    description: "Suporte contínuo aos hóspedes antes, durante e depois da estadia, garantindo excelência e ótimas avaliações.",
+    icon: `<svg class="w-7 h-7 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z"></path></svg>`
+  }
+];
+---
+
+<section id="recursos" class="py-16 bg-slate-50 lg:py-24">
+  <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+    <div class="text-center mb-16 max-w-2xl mx-auto">
+      <span class="text-blue-600 font-bold tracking-wider uppercase text-sm">Nossos Serviços</span>
+      <h2 class="mt-2 text-3xl font-extrabold text-slate-900 sm:text-4xl">Por que escolher a nossa gestão?</h2>
+      <p class="mt-4 text-lg text-slate-600">Terceirize o trabalho exaustivo e tenha mais rentabilidade nas maiores plataformas do mercado.</p>
+    </div>
+    
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {features.map(feature => (
+        <div class="bg-white rounded-2xl p-8 shadow-sm hover:shadow-md transition-shadow duration-300 border border-slate-100">
+          <div class="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center mb-6" set:html={feature.icon} />
+          <h3 class="text-xl font-bold text-slate-900 mb-3">{feature.title}</h3>
+          <p class="text-slate-600 leading-relaxed">{feature.description}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

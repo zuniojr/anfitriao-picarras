@@ -1,0 +1,12 @@
+# build output
+dist/
+.vercel
+.netlify
+.env
+.env.*
+
+# dependencies
+node_modules/
+
+# Astro
+.astro/

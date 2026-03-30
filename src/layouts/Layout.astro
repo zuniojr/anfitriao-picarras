@@ -19,7 +19,7 @@ const { title, description = "Anfitrião Piçarras - Gestão Profissional de Im�
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 	</head>
-	<body class="bg-slate-50 text-slate-900 font-sans antialiased selection:bg-blue-600 selection:text-white">
+	<body class="bg-white text-slate-900 font-sans antialiased selection:bg-orange-600 selection:text-white">
 		<Header />
 		<slot />
 	</body>
@@ -29,4 +29,11 @@ const { title, description = "Anfitrião Piçarras - Gestão Profissional de Im�
 	@tailwind base;
 	@tailwind components;
 	@tailwind utilities;
+
+	/* Forçar fontes e estilos base caso o Tailwind falhe no build inicial */
+	body {
+		margin: 0;
+		padding: 0;
+		overflow-x: hidden;
+	}
 </style>

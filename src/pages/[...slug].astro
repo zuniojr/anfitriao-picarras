@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('blog');
+	return posts.map((post) => ({
+		params: { slug: post.slug },
+		props: post,
+	}));
+}
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<Layout title={post.data.title} description={post.data.description}>
+	<article class="bg-white pt-32 pb-16">
+		<div class="container mx-auto px-4 max-w-4xl">
+			{post.data.heroImage && (
+				<div class="mb-12">
+					<img 
+						src={post.data.heroImage} 
+						alt={post.data.title} 
+						class="w-full h-[450px] object-cover rounded-[2.5rem] shadow-2xl"
+					/>
+				</div>
+			)}
+			<div class="prose prose-slate prose-lg max-w-none">
+				<h1 class="text-4xl md:text-6xl font-black text-slate-900 mb-8 leading-tight tracking-tight">
+					{post.data.title}
+				</h1>
+				<div class="flex items-center gap-4 text-slate-500 mb-12 py-4 border-y border-slate-100 italic">
+					<span>Publicado em {post.data.pubDate.toLocaleDateString('pt-BR')}</span>
+				</div>
+				<Content />
+			</div>
+			
+			<div class="mt-20 pt-12 border-t-2 border-slate-50">
+				<a href="/" class="group inline-flex items-center text-blue-600 font-bold text-lg hover:text-blue-800 transition-colors">
+					<svg class="w-6 h-6 mr-3 group-hover:-translate-x-2 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+					Voltar para página inicial
+				</a>
+			</div>
+		</div>
+	</article>
+	<Footer />
+</Layout>
+
+<style is:global>
+	/* Tipografia Premium para o Blog */
+	.prose h2 { @apply text-3xl font-extrabold text-slate-900 mt-16 mb-8; }
+	.prose h3 { @apply text-2xl font-bold text-slate-800 mt-10 mb-6; }
+	.prose p { @apply text-slate-700 leading-[1.8] mb-8 text-lg; }
+	.prose ul { @apply list-disc list-outside ml-6 mb-8 space-y-4 text-slate-700 text-lg; }
+	.prose strong { @apply text-slate-900 font-bold; }
+	.prose a { @apply text-blue-600 font-semibold underline decoration-2 underline-offset-4 hover:text-blue-800 transition-colors; }
+</style>

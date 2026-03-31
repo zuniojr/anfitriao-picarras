@@ -1,0 +1,120 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('blog');
+const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+function formatDate(date: Date) {
+  return date.toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
+}
+---
+
+<Layout 
+  title="Blog | Anfitrião Piçarras" 
+  description="Dicas e estratégias para proprietários de imóveis em Balneário Piçarras. Aprenda a maximizar seu faturamento com aluguel de temporada."
+>
+  <main>
+    <!-- Hero Section -->
+    <section class="relative bg-slate-900 py-32 md:py-48 overflow-hidden">
+      <div class="absolute inset-0 z-0">
+        <img 
+          src="https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=85" 
+          alt="Blog Anfitrião Piçarras" 
+          class="w-full h-full object-cover opacity-30"
+        />
+        <div class="absolute inset-0 bg-gradient-to-b from-slate-900/70 via-slate-900/20 to-white"></div>
+      </div>
+      <div class="container mx-auto px-4 relative z-10 text-center">
+        <span class="inline-block bg-orange-600/20 text-orange-400 border border-orange-500/30 px-5 py-2 rounded-full text-sm font-bold tracking-widest uppercase mb-6">Conteúdo para Proprietários</span>
+        <h1 class="text-5xl md:text-7xl font-black text-white tracking-tight">
+          Blog & <span class="text-orange-500">Dicas</span>
+        </h1>
+        <p class="text-slate-300 mt-6 text-xl max-w-2xl mx-auto">
+          Estratégias, novidades e conteúdo especializado para você rentabilizar seu imóvel em Balneário Piçarras.
+        </p>
+      </div>
+    </section>
+
+    <!-- Posts Grid -->
+    <section class="py-24 bg-white">
+      <div class="container mx-auto px-4 max-w-7xl">
+        {sortedPosts.length === 0 ? (
+          <div class="text-center py-32">
+            <div class="w-24 h-24 bg-slate-100 rounded-full flex items-center justify-center mx-auto mb-6">
+              <svg class="w-12 h-12 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+              </svg>
+            </div>
+            <p class="text-slate-500 text-lg">Nenhum post encontrado.</p>
+          </div>
+        ) : (
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+            {sortedPosts.map((post, index) => (
+              <article class={`group relative bg-white rounded-[2.5rem] overflow-hidden shadow-md border border-slate-100 hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 flex flex-col ${index === 0 ? 'md:col-span-2 lg:col-span-1' : ''}`}>
+                {post.data.heroImage && (
+                  <div class="relative overflow-hidden h-56">
+                    <img 
+                      src={post.data.heroImage} 
+                      alt={post.data.title}
+                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                    />
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                  </div>
+                )}
+                {!post.data.heroImage && (
+                  <div class="h-56 bg-gradient-to-br from-orange-500 to-orange-700 flex items-center justify-center">
+                    <svg class="w-16 h-16 text-white/50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+                    </svg>
+                  </div>
+                )}
+                <div class="p-8 flex flex-col flex-1">
+                  <time class="text-orange-600 text-sm font-bold uppercase tracking-wide mb-3 block">
+                    {formatDate(post.data.pubDate)}
+                  </time>
+                  <h2 class="text-xl font-black text-slate-900 mb-4 leading-tight group-hover:text-orange-600 transition-colors duration-200">
+                    {post.data.title}
+                  </h2>
+                  <p class="text-slate-600 leading-relaxed flex-1 mb-6">
+                    {post.data.description}
+                  </p>
+                  <a 
+                    href={`/blog/${post.slug}`}
+                    class="inline-flex items-center gap-2 text-orange-600 font-black hover:translate-x-2 transition-transform duration-200"
+                  >
+                    Ler artigo completo
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                  </a>
+                </div>
+              </article>
+            ))}
+          </div>
+        )}
+      </div>
+    </section>
+
+    <!-- CTA Final -->
+    <section class="py-24 bg-slate-900">
+      <div class="container mx-auto px-4 text-center">
+        <h2 class="text-4xl md:text-5xl font-black text-white mb-6 leading-tight">
+          Pronto para começar a faturar <span class="text-orange-500">20% a 40%</span> mais?
+        </h2>
+        <p class="text-slate-400 text-xl mb-12 max-w-3xl mx-auto">
+          Não deixe seu imóvel vazio em Balneário Piçarras. Fale com a Anfitrião Piçarras e profissionalize sua gestão hoje mesmo.
+        </p>
+        <a 
+          href="https://wa.me/5547996372129"
+          target="_blank"
+          class="inline-flex items-center gap-3 bg-orange-600 hover:bg-orange-700 text-white px-12 py-6 rounded-full font-black text-xl transition-all duration-300 shadow-2xl shadow-orange-900/50 hover:scale-105"
+        >
+          SOLICITAR AVALIAÇÃO DO IMÓVEL
+        </a>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</Layout>

@@ -53,34 +53,42 @@ function formatDate(date: Date) {
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
             {sortedPosts.map((post, index) => (
               <article class={`group relative bg-white rounded-[2.5rem] overflow-hidden shadow-md border border-slate-100 hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 flex flex-col ${index === 0 ? 'md:col-span-2 lg:col-span-1' : ''}`}>
-                {post.data.heroImage && (
-                  <div class="relative overflow-hidden h-56">
-                    <img 
-                      src={post.data.heroImage} 
-                      alt={post.data.title}
-                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
-                    />
-                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                  </div>
-                )}
-                {!post.data.heroImage && (
-                  <div class="h-56 bg-gradient-to-br from-orange-500 to-orange-700 flex items-center justify-center">
-                    <svg class="w-16 h-16 text-white/50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
-                    </svg>
-                  </div>
-                )}
+                {/* Imagem clicável */}
+                <a href={`/blog/${post.slug}`} class="block relative overflow-hidden h-56 flex-shrink-0 cursor-pointer">
+                  {post.data.heroImage ? (
+                    <>
+                      <img
+                        src={post.data.heroImage}
+                        alt={post.data.title}
+                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                      />
+                      <div class="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </>
+                  ) : (
+                    <div class="h-full bg-gradient-to-br from-orange-500 to-orange-700 flex items-center justify-center">
+                      <svg class="w-16 h-16 text-white/50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+                      </svg>
+                    </div>
+                  )}
+                </a>
                 <div class="p-8 flex flex-col flex-1">
                   <time class="text-orange-600 text-sm font-bold uppercase tracking-wide mb-3 block">
                     {formatDate(post.data.pubDate)}
                   </time>
-                  <h2 class="text-xl font-black text-slate-900 mb-4 leading-tight group-hover:text-orange-600 transition-colors duration-200">
-                    {post.data.title}
-                  </h2>
-                  <p class="text-slate-600 leading-relaxed flex-1 mb-6">
-                    {post.data.description}
-                  </p>
-                  <a 
+                  {/* Título clicável */}
+                  <a href={`/blog/${post.slug}`}>
+                    <h2 class="text-xl font-black text-slate-900 mb-4 leading-tight group-hover:text-orange-600 hover:text-orange-600 transition-colors duration-200 cursor-pointer">
+                      {post.data.title}
+                    </h2>
+                  </a>
+                  {/* Resumo clicável */}
+                  <a href={`/blog/${post.slug}`} class="flex-1 mb-6 block cursor-pointer">
+                    <p class="text-slate-600 leading-relaxed hover:text-slate-800 transition-colors duration-200">
+                      {post.data.description}
+                    </p>
+                  </a>
+                  <a
                     href={`/blog/${post.slug}`}
                     class="inline-flex items-center gap-2 text-orange-600 font-black hover:translate-x-2 transition-transform duration-200"
                   >

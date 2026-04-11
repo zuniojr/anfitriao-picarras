@@ -2,7 +2,7 @@
 title: "Os 7 Principais Desafios Legais ao Alugar um Imóvel por Temporada"
 description: "Conheça os principais desafios jurídicos do aluguel de temporada no Brasil e saiba como se proteger como proprietário ou anfitrião."
 pubDate: 2024-06-15
-heroImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=2000&auto=format&fit=crop"
+heroImage: "/images/blog/unsplash-photo-1589829545856-d10d557cf95f.jpg"
 tags: ["Legislação", "Jurídico", "Anfitrião", "Direitos"]
 ---
 

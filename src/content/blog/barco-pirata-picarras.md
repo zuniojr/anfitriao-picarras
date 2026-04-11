@@ -2,7 +2,7 @@
 title: "Barco Pirata Piçarras: Uma Aventura no Mar para Toda a Família"
 description: "Conheça o passeio de Barco Pirata em Balneário Piçarras, uma das atrações náuticas mais divertidas para crianças e adultos no litoral catarinense."
 pubDate: 2024-07-01
-heroImage: "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=2000&auto=format&fit=crop"
+heroImage: "/images/blog/unsplash-photo-1508739773434-c26b3d09e071.jpg"
 tags: ["Turismo", "Náutica", "Família", "Piçarras"]
 ---
 

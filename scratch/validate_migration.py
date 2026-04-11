@@ -1,0 +1,63 @@
+import os
+import re
+
+blog_dir = r"c:\Users\Osmar Junior\Documents\01 Antigravity\Anfitriao-Picarras\anfitriao-piçarras\src\content\blog"
+public_img_dir = r"c:\Users\Osmar Junior\Documents\01 Antigravity\Anfitriao-Picarras\anfitriao-piçarras\public"
+
+def validate_post(filename):
+    path = os.path.join(blog_dir, filename)
+    with open(path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    errors = []
+    
+    # Check Frontmatter
+    fm_match = re.match(r'^---\s*\n(.*?)\n---\s*\n(.*)', content, re.DOTALL)
+    if not fm_match:
+        errors.append("Frontmatter ausente ou malformado")
+        return errors
+
+    fm_content = fm_match.group(1)
+    body_content = fm_match.group(2).strip()
+
+    required_fields = ['title:', 'description:', 'pubDate:']
+    for field in required_fields:
+        if field not in fm_content:
+            errors.append(f"Campo obrigatório faltando: {field}")
+
+    # Check for empty body
+    if len(body_content.splitlines()) < 5:
+        errors.append(f"Conteúdo do corpo muito curto ({len(body_content.splitlines())} linhas)")
+
+    # Check for leftover HTML tags
+    if re.search(r'<[a-z/][^>]*>', body_content, re.IGNORECASE):
+        errors.append("Tags HTML detectadas no corpo Markdown")
+
+    # Check hero image path
+    hero_match = re.search(r'heroImage:\s*"(.*?)"', fm_content)
+    if hero_match:
+        img_path = hero_match.group(1)
+        # Convert /images/blog/img.jpg to public/images/blog/img.jpg
+        local_img_path = os.path.join(public_img_dir, img_path.lstrip('/').replace('/', os.sep))
+        if not os.path.exists(local_img_path):
+            errors.append(f"Imagem de destaque não encontrada localmente: {img_path}")
+
+    return errors
+
+files = os.listdir(blog_dir)
+report = []
+
+for file in files:
+    if file.endswith('.md'):
+        errs = validate_post(file)
+        if errs:
+            report.append((file, errs))
+
+if not report:
+    print("Sucesso! Todos os 132 posts parecem estar corretos e bem formatados.")
+else:
+    print(f"Encontrados problemas em {len(report)} posts:")
+    for file, errs in report:
+        print(f"\n[ {file} ]")
+        for e in errs:
+            print(f"  - {e}")

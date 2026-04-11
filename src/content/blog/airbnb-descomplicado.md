@@ -2,7 +2,7 @@
 title: "Airbnb Descomplicado: Tudo que Você Precisa Saber"
 description: "O Airbnb pode parecer complicado no início, mas não é. Veja o guia mais simples e direto para usar a plataforma como hóspede ou anfitrião em Balneário Piçarras."
 pubDate: 2024-06-01
-heroImage: "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=2000&auto=format&fit=crop"
+heroImage: "/images/blog/unsplash-photo-1501183638710-841dd1904471.jpg"
 tags: ["Airbnb", "Guia", "Dicas", "Hospedagem"]
 ---
 

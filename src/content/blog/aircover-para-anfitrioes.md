@@ -2,7 +2,7 @@
 title: "O que é AirCover para Anfitriões? Proteção Completa no Airbnb em 2024"
 description: "Entenda como funciona o AirCover do Airbnb para proteger sua casa, móveis e pertences contra danos de hóspedes. Guia completo para anfitriões em Balneário Piçarras."
 pubDate: 2024-03-20
-heroImage: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+heroImage: "/images/blog/unsplash-photo-1560518883-ce09059eeffa.jpg"
 ---
 
 Uma das maiores dúvidas de quem quer colocar seu imóvel no Airbnb é: *"E se o hóspede danificar alguma coisa?"*. A resposta do Airbnb para essa preocupação se chama **AirCover para Anfitriões** — e entender como ele funciona pode ser o que falta para você tomar a decisão de anunciar seu imóvel em Balneário Piçarras.

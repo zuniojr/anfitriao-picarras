@@ -2,7 +2,7 @@
 title: "Como Melhorar Reservas e Avaliações no Aluguel de Temporada em Piçarras"
 description: "Estratégias práticas para aumentar as reservas e melhorar as avaliações do seu imóvel de aluguel de temporada em Balneário Piçarras."
 pubDate: 2024-08-01
-heroImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=2000&auto=format&fit=crop"
+heroImage: "/images/blog/unsplash-photo-1507003211169-0a1dd7228f2d.jpg"
 tags: ["Avaliações", "Reservas", "Dicas", "Anfitrião"]
 ---
 

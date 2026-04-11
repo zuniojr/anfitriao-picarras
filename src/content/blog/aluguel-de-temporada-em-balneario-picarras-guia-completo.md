@@ -2,7 +2,7 @@
 title: "Aluguel de Temporada em Balneário Piçarras: Guia Completo para Proprietários"
 description: "Saiba como rentabilizar seu imóvel em Balneário Piçarras através do aluguel de temporada. Dicas profissionais de gestão, plataformas e faturamento."
 pubDate: 2024-03-25
-heroImage: "https://images.unsplash.com/photo-1541604193435-225878996aba?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+heroImage: "/images/blog/unsplash-photo-1541604193435-225878996aba.jpg"
 ---
 
 Se você comprou um apartamento ou casa em Balneário Piçarras como investimento, o **aluguel de temporada** é o caminho mais inteligente para maximizar seu retorno. Neste guia completo, você vai entender por que o mercado de locação em Piçarras cresceu mais de 40% nos últimos três anos — e como aproveitar essa oportunidade da forma certa.

@@ -2,7 +2,7 @@
 title: "Co-Anfitrião no Airbnb: Como Funciona e Como Pode Ajudar no seu Aluguel de Temporada"
 description: "Entenda o que é o co-anfitrião no Airbnb, como essa figura pode ajudar proprietários a gerenciar melhor seus imóveis de temporada em Piçarras."
 pubDate: 2024-06-01
-heroImage: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=2000&auto=format&fit=crop"
+heroImage: "/images/blog/unsplash-photo-1600880292203-757bb62b4baf.jpg"
 tags: ["Co-Anfitrião", "Gestão", "Airbnb", "Piçarras"]
 ---
 

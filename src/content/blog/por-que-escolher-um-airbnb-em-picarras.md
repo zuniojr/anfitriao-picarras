@@ -2,7 +2,7 @@
 title: "Por que escolher um Airbnb em Piçarras?"
 description: "Conheça as vantagens de escolher um Airbnb em Balneário Piçarras para suas férias. Variedade, localização e o conforto de um lar."
 pubDate: 2024-03-31
-heroImage: "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+heroImage: "/images/blog/unsplash-photo-1493663284031-b7e3aefcae8e.jpg"
 ---
 
 Balneário Piçarras é um destino encantador, e a escolha da sua hospedagem pode fazer toda a diferença na sua viagem. Optar por um Airbnb na cidade oferece benefícios que vão além de um simples quarto de hotel.

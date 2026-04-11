@@ -2,7 +2,7 @@
 title: "Alugar seu Imóvel ou Desfrutar? Como Tomar a Melhor Decisão"
 description: "Você tem um imóvel em Balneário Piçarras e não sabe se deve alugar por temporada ou usar para férias? Entenda como equilibrar as duas opções e maximizar o retorno."
 pubDate: 2024-06-01
-heroImage: "https://images.unsplash.com/photo-1560185009-5bf9f3cd1bd8?q=80&w=2000&auto=format&fit=crop"
+heroImage: "/images/blog/unsplash-photo-1560185009-5bf9f3cd1bd8.jpg"
 tags: ["Investimento", "Aluguel", "Piçarras", "Decisão"]
 ---
 

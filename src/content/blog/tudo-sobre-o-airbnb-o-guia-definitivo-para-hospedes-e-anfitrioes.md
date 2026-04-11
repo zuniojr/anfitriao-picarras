@@ -2,7 +2,7 @@
 title: "Tudo Sobre o Airbnb: O Guia Definitivo para Hóspedes e Anfitriões"
 description: "O guia mais completo sobre o Airbnb em português: como funciona, como usar, dicas para hóspedes e anfitriões, segurança e muito mais."
 pubDate: 2024-09-01
-heroImage: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2000&auto=format&fit=crop"
+heroImage: "/images/blog/unsplash-photo-1600585154340-be6161a56a0c.jpg"
 tags: ["Airbnb", "Guia Completo", "Hóspedes", "Anfitriões"]
 ---
 

@@ -2,7 +2,7 @@
 title: "O que Fazer em Balneário Piçarras: Guia Completo de Lazer, Praias e Gastronomia"
 description: "Descubra as melhores praias, restaurantes, passeios e atrações turísticas em Balneário Piçarras, SC. Guia completo e atualizado para turistas e moradores."
 pubDate: 2024-03-30
-heroImage: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+heroImage: "/images/blog/unsplash-photo-1507525428034-b723cf961d3e.jpg"
 ---
 
 Balneário Piçarras é um dos segredos mais bem guardados do litoral catarinense. Situada no litoral norte de Santa Catarina, entre Penha e Itajaí, a cidade combina praias limpas, segurança familiar, gastronomia autêntica e uma infraestrutura turística que cresce a cada ano. Se você está planejando uma visita ou acabou de se instalar, este guia completo vai te mostrar tudo o que Piçarras tem a oferecer.

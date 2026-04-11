@@ -2,7 +2,7 @@
 title: "Administração Airbnb em Balneário Piçarras: Como Funciona a Gestão Profissional"
 description: "Entenda como funciona a administração profissional de imóveis no Airbnb em Balneário Piçarras e por que ela maximiza seus resultados como proprietário."
 pubDate: 2024-08-01
-heroImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2000&auto=format&fit=crop"
+heroImage: "/images/blog/unsplash-photo-1454165804606-c3d57bc86b40.jpg"
 tags: ["Gestão", "Administração", "Airbnb", "Piçarras"]
 ---
 

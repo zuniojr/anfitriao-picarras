@@ -2,7 +2,7 @@
 title: "O que fazer em Piçarras: Um Paraíso Gastronômico à Beira-mar"
 description: "Descubra os melhores sabores de Piçarras! Dicas de restaurantes, pratos típicos e experiências gastronômicas imperdíveis na cidade litorânea de Santa Catarina."
 pubDate: 2024-03-31
-heroImage: "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+heroImage: "/images/blog/unsplash-photo-1551782450-a2132b4ba21d.jpg"
 ---
 
 Encravada no litoral norte de Santa Catarina, Balneário Piçarras é um destino que conquista não apenas pelos seus cenários naturais deslumbrantes, mas principalmente por sua gastronomia rica e diversificada. Conhecida carinhosamente como a “Namorada do Atlântico”, esta cidade litorânea oferece aos turistas uma experiência sensorial completa.

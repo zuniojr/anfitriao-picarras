@@ -2,7 +2,7 @@
 title: "Aluguel de Temporada Próximo ao Beto Carrero World: Como Escolher a Melhor Opção"
 description: "Guia completo para escolher o melhor aluguel de temporada próximo ao Beto Carrero World, com dicas de localização, preço e o que observar antes de reservar."
 pubDate: 2024-10-01
-heroImage: "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?q=80&w=2000&auto=format&fit=crop"
+heroImage: "/images/blog/unsplash-photo-1467269204594-9661b134dd2b.jpg"
 tags: ["Beto Carrero", "Aluguel de Temporada", "Hospedagem", "Família"]
 ---
 

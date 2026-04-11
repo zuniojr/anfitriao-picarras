@@ -2,7 +2,7 @@
 title: "Como Funciona o Airbnb: Guia Prático para Iniciantes"
 description: "Entenda de forma clara e prática como funciona o Airbnb — da pesquisa à reserva, do check-in ao check-out, para hóspedes e anfitriões."
 pubDate: 2024-09-01
-heroImage: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2000&auto=format&fit=crop"
+heroImage: "/images/blog/unsplash-photo-1512917774080-9991f1c4c750.jpg"
 tags: ["Airbnb", "Como Funciona", "Guia Prático", "Iniciantes"]
 ---
 

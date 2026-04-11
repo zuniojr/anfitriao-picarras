@@ -55,12 +55,7 @@ function formatDate(date: Date) {
           </a>
           
           <div class="p-8 flex flex-col flex-1">
-            <div class="flex items-center gap-2 mb-4">
-              <span class="w-8 h-px bg-orange-500"></span>
-              <time class="text-orange-600 text-[10px] font-black uppercase tracking-widest">
-                {formatDate(post.data.pubDate)}
-              </time>
-            </div>
+            {/* Data removida a pedido do usuário */}
             
             <a href={`/blog/${post.slug}`} class="block group/title mb-4">
               <h3 class="text-xl font-bold text-slate-900 leading-tight group-hover/title:text-orange-600 transition-colors line-clamp-2">

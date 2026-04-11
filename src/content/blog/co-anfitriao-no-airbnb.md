@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Co"
 description: "Descubra o que é um co-anfitrião no Airbnb, como adicioná-lo e quais as vantagens dessa função para otimizar seu aluguel de temporada."
 pubDate: 2025-03-20
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

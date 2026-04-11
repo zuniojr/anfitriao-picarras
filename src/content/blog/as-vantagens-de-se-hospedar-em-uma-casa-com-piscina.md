@@ -2,7 +2,7 @@
 title: "As Vantagens de se Hospedar em uma Casa com Piscina"
 description: "Descubra as vantagens de alugar uma casa com piscina para temporada em Balneário Piçarras. Mais privacidade, conforto e diversão para sua viagem em família."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1540339832862-4745191f4134.jpg"
+heroImage: "/images/blog/unsplash-photo-1540339832862-4745191f4134.avif"
 ---
 
 Planejando sua próxima viagem para Balneário Piçarras? Escolher uma casa com piscina pode elevar sua experiência de férias a um novo patamar de luxo e conveniência.

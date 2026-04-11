@@ -2,7 +2,7 @@
 title: "O que Fazer em Balneário Piçarras Durante a Noite"
 description: "Descubra as melhores opções de lazer noturno em Balneário Piçarras: restaurantes, bares, passeios e muito mais para aproveitar após o pôr do sol."
 pubDate: 2024-06-01
-heroImage: "/images/blog/unsplash-photo-1519671482749-fd09be7ccebf.jpg"
+heroImage: "/images/blog/unsplash-photo-1519671482749-fd09be7ccebf.avif"
 tags: ["Turismo", "Noite", "Lazer", "Piçarras"]
 ---
 

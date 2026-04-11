@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Aceite Animais de Estimação e Lucre Mais com Aluguel por Temporada"
 description: "Descubra como aceitar animais de estimação pode aumentar suas reservas no aluguel por temporada. Dicas práticas para anfitriões em Piçarras!"
 pubDate: 2025-03-22
-heroImage: "/images/blog/pet.png"
+heroImage: "/images/blog/pet.avif"
 ---
 
 

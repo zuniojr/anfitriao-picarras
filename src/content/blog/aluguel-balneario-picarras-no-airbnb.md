@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Aluguel Balneário Piçarras no Airbnb"
 description: "O Airbnb é uma das plataformas mais populares para aluguel de temporada em Balneário Piçarras. Com uma ampla variedade de opções de acomodação, desde apartamentos aconchegantes até casas de luxo à ..."
 pubDate: 2025-04-07
-heroImage: "/images/blog/Bal-picarras.png"
+heroImage: "/images/blog/Bal-picarras.avif"
 ---
 
 

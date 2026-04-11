@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como Receber Bem Seus Hóspedes em Aluguéis de Temporada"
 description: "Aprenda como se destacar como anfitrião de temporada em Piçarras com dicas práticas para encantar hóspedes, aumentar avaliações e fidelizar clientes."
 pubDate: 2025-04-07
-heroImage: "/images/blog/picarras-3.png"
+heroImage: "/images/blog/picarras-3.avif"
 ---
 
 

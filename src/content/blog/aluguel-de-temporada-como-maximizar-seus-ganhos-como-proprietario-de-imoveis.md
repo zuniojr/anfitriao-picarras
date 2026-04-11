@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Aluguel de Temporada: Como Maximizar seus Ganhos como Proprietário de Imóveis"
 description: "O mercado de aluguel de temporada oferece uma oportunidade lucrativa para proprietários de imóveis gerarem renda adicional e aproveitarem ao máximo seus investimentos. No entanto, maximizar seus ga..."
 pubDate: 2025-03-09
-heroImage: "/images/blog/29-feed.jpg"
+heroImage: "/images/blog/29-feed.avif"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Como Alugar Seu Imóvel em Piçarras e Atrair Mais Turistas"
 description: "Descubra como alugar seu imóvel em Piçarras e atrair mais turistas. Dicas essenciais de preparação do imóvel, plataformas de aluguel e estratégias de marketing eficazes."
 pubDate: 2025-03-20
-heroImage: "/images/blog/Como-Alugar-Seu-Imovel-em-Picarras-e-Atrair-Mais-Turistas.png"
+heroImage: "/images/blog/Como-Alugar-Seu-Imovel-em-Picarras-e-Atrair-Mais-Turistas.avif"
 ---
 
 

@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Checklist de Preparação para Alugar no Airbnb: Tudo o que Você Precisa Saber"
 description: "Alugar sua propriedade no Airbnb pode ser uma excelente maneira de ganhar dinheiro extra e compartilhar sua casa com viajantes de todo o mundo. No entanto, para garantir uma experiência positiva pa..."
 pubDate: 2024-06-09
-heroImage: "/images/blog/checkelist.jpg"
+heroImage: "/images/blog/checkelist.avif"
 ---
 
 

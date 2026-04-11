@@ -2,7 +2,7 @@
 title: "Ahoy, marujos! Embarquem em uma aventura inesquecível no Passeio de Barco Pirata em Piçarras!"
 description: "Embarque no Passeio de Barco Pirata em Piçarras! Aventura para toda a família com atividades divertidas, belas paisagens e muito mais. Não perca essa experiência única!"
 pubDate: 2025-03-02
-heroImage: "/images/blog/Pirata-1.jpg"
+heroImage: "/images/blog/Pirata-1.avif"
 ---
 
 

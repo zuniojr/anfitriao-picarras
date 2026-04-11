@@ -2,7 +2,7 @@
 title: "Por Que Ser Anfitrião de Temporada em Piçarras Pode Mudar a Sua Vida"
 description: "Descubra por que ser anfitrião de temporada em Piçarras pode mudar a sua vida. Veja dicas práticas e estratégias para lucrar de verdade com seu imóvel."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1512917774080-9991f1c4c750.jpg"
+heroImage: "/images/blog/unsplash-photo-1512917774080-9991f1c4c750.avif"
 ---
 
 Você já pensou que aquele seu apartamento na praia pode render mais que o décimo terceiro? Pois é. Balneário Piçarras está bombando no turismo — e quem sabe aproveitar essa onda, surfa bonito. Ser anfitrião de temporada pode mudar sua vida financeira.

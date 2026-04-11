@@ -2,7 +2,7 @@
 title: "Anfitrião de Temporada de Sucesso em Piçarras"
 description: "Aprenda como se tornar um anfitrião de temporada em Piçarras e maximize seus lucros com aluguel por temporada. Dicas essenciais para receber hóspedes e garantir avaliações positivas."
 pubDate: 2025-04-07
-heroImage: "/images/blog/Anfitriao-picarras.png"
+heroImage: "/images/blog/Anfitriao-picarras.avif"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Locação por temporada: entenda seus direitos como anfitrião em Piçarras"
 description: "Descubra os direitos do anfitrião de temporada em Piçarras segundo a legislação brasileira e evite conflitos com hóspedes ou condomínios. Entenda o que é permitido e como atuar com segurança."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1560518883-ce09059eeffa.jpg"
+heroImage: "/images/blog/unsplash-photo-1560518883-ce09059eeffa.avif"
 ---
 
 Se você é anfitrião de temporada em Piçarras ou pensa em se tornar um, conhecer seus direitos é essencial para evitar problemas legais e proteger seu patrimônio. A locação por temporada é regida pela **Lei do Inquilinato (Lei nº 8.245/91)**, que estabelece regras específicas para estadias de até 90 dias.

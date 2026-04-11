@@ -2,7 +2,7 @@
 title: "Beto Carrero World: Diversão garantida para todas as idades!"
 description: "Prepare-se para uma aventura inesquecível no Beto Carrero World, o maior parque temático da América Latina! Localizado em Penha, ao lado de Balneário Piçarras."
 pubDate: 2024-03-25
-heroImage: "/images/blog/beto-carrero-world-penha.png"
+heroImage: "/images/blog/beto-carrero-world-penha.avif"
 ---
 
 Prepare-se para uma aventura inesquecível no Beto Carrero World, o maior parque temático da América Latina! Localizado em Penha, Santa Catarina, o parque oferece uma variedade de atrações para todas as idades, desde montanhas-russas radicais até shows emocionantes e áreas temáticas encantadoras.

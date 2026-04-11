@@ -2,7 +2,7 @@
 title: "Imóveis temporada em Balneário Piçarras: Encontre a melhor opção"
 description: "Prepare-se para explorar novos horizontes em Balneário Piçarras. Descubra os melhores tipos de imóveis, dicas de segurança e como escolher a acomodação ideal para suas férias."
 pubDate: 2024-02-10
-heroImage: "/images/blog/imoveis-temporada-picarras.png"
+heroImage: "/images/blog/imoveis-temporada-picarras.avif"
 ---
 
 Prepare-se para explorar novos horizontes, criar memórias incríveis e mergulhar em aventuras que irão enriquecer sua vida. Junte-se a nós e embarque nessa viagem extraordinária! Estamos ansiosos para compartilhar o mundo com você em Balneário Piçarras.

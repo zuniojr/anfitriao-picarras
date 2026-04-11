@@ -2,7 +2,7 @@
 title: "Guia Completo para Ser um Anfitrião de Sucesso em Piçarras"
 description: "Aprenda como ser um anfitrião de sucesso em Piçarras com este guia completo. Dicas de preparação do imóvel, comunicação eficiente e como conquistar avaliações positivas."
 pubDate: 2025-03-20
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1.avif"
 ---
 
 

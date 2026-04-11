@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Aluguel por Temporada em Piçarras: Como Maximizar Seus Lucros"
 description: "Quer lucrar mais com aluguel por temporada em Piçarras? Veja dicas de precificação, fotos, conforto e divulgação para atrair mais hóspedes!"
 pubDate: 2025-03-20
-heroImage: "/images/blog/Como-Maximizar-Seus-Lucros.png"
+heroImage: "/images/blog/Como-Maximizar-Seus-Lucros.avif"
 ---
 
 

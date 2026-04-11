@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como Transformar seu Imóvel de Temporada em Piçarras em um Investimento Lucrativo"
 description: "Descubra como transformar seu imóvel de temporada em Piçarras em um investimento altamente lucrativo com nossas dicas especializadas de gestão e hospitalidade para anfitriões."
 pubDate: 2025-03-22
-heroImage: "/images/blog/freepik__descubra-como-transformar-seu-imvel-de-temporada-e__8275.jpeg"
+heroImage: "/images/blog/freepik__descubra-como-transformar-seu-imvel-de-temporada-e__8275.avif"
 ---
 
 

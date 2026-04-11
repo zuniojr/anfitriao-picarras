@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Onde Investir em um Imóvel para Alugar por Temporada?"
 description: "Descubra onde investir em um imóvel para aluguel por temporada e maximize seu retorno financeiro. Dicas essenciais para escolher a melhor localização e gestão profissional."
 pubDate: 2025-03-25
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

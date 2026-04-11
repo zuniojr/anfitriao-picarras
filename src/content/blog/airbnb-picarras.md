@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Airbnb Piçarras"
 description: "Encontre as melhores opções de Airbnb em Piçarras para curtir o litoral com conforto e economia. Dicas para viajantes e anfitriões!"
 pubDate: 2025-04-19
-heroImage: "/images/blog/8-feed.jpg"
+heroImage: "/images/blog/8-feed.avif"
 ---
 
 

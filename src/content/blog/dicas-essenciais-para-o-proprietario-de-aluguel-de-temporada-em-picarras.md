@@ -2,7 +2,7 @@
 title: "Dicas Essenciais para o Proprietário de Aluguel de Temporada em Piçarras"
 description: "O mercado de aluguel de temporada está crescendo rapidamente, e ser um anfitrião bem-sucedido exige mais do que apenas disponibilizar um imóvel para hóspedes. Se você deseja maximizar seus lucros e..."
 pubDate: 2025-03-19
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Guia de Férias em Família: Melhores Programas com Crianças em Piçarras"
 description: "Viajar com crianças exige planejamento. Confira os melhores lugares e atividades em Balneário Piçarras que garantem diversão para os pequenos e descanso para os pais."
 pubDate: 2024-06-07
-heroImage: "/images/blog/ferias-familia-picarras.png"
+heroImage: "/images/blog/ferias-familia-picarras.avif"
 tags: ["Família", "Crianças", "Lazer", "Piçarras"]
 ---
 

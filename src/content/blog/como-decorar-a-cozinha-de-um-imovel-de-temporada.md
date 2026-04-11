@@ -2,7 +2,7 @@
 title: "Como Decorar a Cozinha de um Imóvel de Temporada"
 description: "Dicas práticas de decoração e organização para transformar a cozinha do seu imóvel de temporada em um ambiente funcional e acolhedor que encanta os hóspedes."
 pubDate: 2024-06-15
-heroImage: "/images/blog/unsplash-photo-1556909114-f6e7ad7d3136.jpg"
+heroImage: "/images/blog/unsplash-photo-1556909114-f6e7ad7d3136.avif"
 tags: ["Decoração", "Cozinha", "Dicas", "Anfitrião"]
 ---
 

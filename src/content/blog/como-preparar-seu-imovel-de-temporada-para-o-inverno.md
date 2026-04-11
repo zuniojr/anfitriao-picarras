@@ -2,7 +2,7 @@
 title: "Como Preparar seu Imóvel de Temporada para o Inverno"
 description: "O inverno em Balneário Piçarras é charmoso, mas exige cuidados específicos no seu Airbnb. Saiba como manter seu imóvel ocupado e confortável mesmo nos dias frios."
 pubDate: 2024-06-08
-heroImage: "/images/blog/inverno-em-picarras.png"
+heroImage: "/images/blog/inverno-em-picarras.avif"
 tags: ["Inverno", "Gestão", "Conforto", "Anfitrião"]
 ---
 

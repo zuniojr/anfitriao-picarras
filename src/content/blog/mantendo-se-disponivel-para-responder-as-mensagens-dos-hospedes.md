@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Mantendo-se Disponível para Responder às Mensagens dos Hóspedes"
 description: "Como anfitrião do Airbnb, estar disponível para responder prontamente às mensagens dos hóspedes é essencial para proporcionar uma experiência positiva e garantir uma estadia tranquila e agradável. ..."
 pubDate: 2024-06-09
-heroImage: "/images/blog/28-feed-1.jpg"
+heroImage: "/images/blog/28-feed-1.avif"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Dicas Essenciais para Anfitriões de Airbnb em Piçarras"
 description: "Saiba como ser um excelente anfitrião de Airbnb em Piçarras com essas dicas essenciais. Prepare seu imóvel, capriche nas fotos e garanta uma comunicação eficiente para atrair mais turistas."
 pubDate: 2025-03-20
-heroImage: "/images/blog/Dicas-Essenciais-para-Anfitrioes-de-Airbnb-.png"
+heroImage: "/images/blog/Dicas-Essenciais-para-Anfitrioes-de-Airbnb-.avif"
 ---
 
 

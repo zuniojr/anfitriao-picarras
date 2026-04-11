@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como Atrair Hóspedes de Outros Estados para o Seu Imóvel de Temporada"
 description: "Descubra como atrair hóspedes de outros estados para seu imóvel de temporada. Dicas sobre decoração, atendimento personalizado e muito mais para aumentar sua ocupação."
 pubDate: 2025-03-26
-heroImage: "/images/blog/Anfitriao-picarras-2.png"
+heroImage: "/images/blog/Anfitriao-picarras-2.avif"
 ---
 
 

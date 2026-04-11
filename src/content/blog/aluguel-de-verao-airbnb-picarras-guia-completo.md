@@ -2,7 +2,7 @@
 title: "Aluguel no Airbnb em Balneário Piçarras: O Guia Completo"
 description: "Planejando férias de verão? Descubra como encontrar a melhor hospedagem no Airbnb em Balneário Piçarras com este guia completo sobre localização, segurança e atrações."
 pubDate: 2024-02-15
-heroImage: "/images/blog/guia-aluguel-airbnb-picarras.png"
+heroImage: "/images/blog/guia-aluguel-airbnb-picarras.avif"
 ---
 
 Balneário Piçarras é uma cidade litorânea localizada no estado de Santa Catarina, no sul do Brasil. Famosa pelas suas praias de águas cristalinas e pela proximidade com o Parque Beto Carrero World, um dos parques temáticos mais famosos do país, Balneário Piçarras é um destino turístico popular durante todo o ano. No entanto, durante o verão, a cidade se transforma em um verdadeiro paraíso para os amantes de praia e sol.

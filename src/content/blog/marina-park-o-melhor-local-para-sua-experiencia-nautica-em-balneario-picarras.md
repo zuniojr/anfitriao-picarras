@@ -2,7 +2,7 @@
 title: "Marina Park: O Melhor da Experiência Náutica em Piçarras"
 description: "Conheça o Marina Park, o destino perfeito para amantes do mar e esportes náuticos em Balneário Piçarras."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1544551763-46a013bb70d5.jpg"
+heroImage: "/images/blog/unsplash-photo-1544551763-46a013bb70d5.avif"
 tags: ["Turismo", "Piçarras", "Náutica", "Lazer"]
 ---
 

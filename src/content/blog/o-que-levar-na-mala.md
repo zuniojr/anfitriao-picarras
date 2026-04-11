@@ -2,7 +2,7 @@
 title: "O que levar na mala?"
 description: "Dicas essenciais para preparar sua mala de viagem para Balneário Piçarras, garantindo que você tenha tudo o que precisa para aproveitar o litoral."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1523906834658-6e24ef2386f9.jpg"
+heroImage: "/images/blog/unsplash-photo-1523906834658-6e24ef2386f9.avif"
 ---
 
 Arrumar as malas para uma viagem à praia pode parecer simples, mas esquecer itens básicos pode gerar gastos desnecessários na viagem. Se você está vindo para se hospedar em um dos nossos imóveis em Balneário Piçarras, aqui está o guia definitivo.

@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Preparativos Essenciais para Alugar Seu Espaço no Airbnb"
 description: "Alugue um imóvel de temporada em Piçarras. A opção ideal para quem busca rentabilidade."
 pubDate: 2025-02-09
-heroImage: "/images/blog/3-feed.jpg"
+heroImage: "/images/blog/3-feed.avif"
 ---
 
 

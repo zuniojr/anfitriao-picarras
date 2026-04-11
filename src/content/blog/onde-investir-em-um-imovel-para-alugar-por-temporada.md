@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Onde Investir em um Imóvel para Alugar por Temporada?"
 description: "Destinos turísticos populares, como praias, montanhas e cidades históricas, são sempre boas opções. Essas regiões costumam atrair visitantes durante todo o ano, garantindo alta taxa de ocupação e r..."
 pubDate: 2025-03-24
-heroImage: "/images/blog/familia-1.png"
+heroImage: "/images/blog/familia-1.avif"
 ---
 
 

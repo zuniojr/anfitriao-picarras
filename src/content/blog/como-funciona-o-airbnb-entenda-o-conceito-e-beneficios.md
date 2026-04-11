@@ -2,7 +2,7 @@
 title: "Como Funciona o Airbnb? Entenda o Conceito e Benefícios"
 description: "O que é o Airbnb? O Airbnb é uma plataforma online que conecta anfitriões, que desejam alugar suas propriedades, com hóspedes, que estão em busca de acomodações temporárias. Fundada em 2008, a plat..."
 pubDate: 2024-06-09
-heroImage: "/images/blog/alugar.jpg"
+heroImage: "/images/blog/alugar.avif"
 ---
 
 

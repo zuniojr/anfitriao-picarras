@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Viajando com Crianças: Por que Escolher um Imóvel de Temporada?"
 description: "Planejando viajar com crianças? Descubra por que alugar um imóvel de temporada é a melhor opção para mais conforto, economia e diversão em família!"
 pubDate: 2025-03-24
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

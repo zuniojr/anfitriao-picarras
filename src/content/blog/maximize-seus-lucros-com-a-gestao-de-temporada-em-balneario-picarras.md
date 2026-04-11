@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Maximize Seus Lucros com a Gestão de Temporada em Balneário Piçarras"
 description: "Descubra como a gestão de temporada em Balneário Piçarras pode aumentar seus rendimentos e garantir mais reservas. Conheça os benefícios e comece a lucrar!"
 pubDate: 2025-03-25
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

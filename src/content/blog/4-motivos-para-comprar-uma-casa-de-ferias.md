@@ -1,8 +1,8 @@
-﻿---
+---
 title: "4 Motivos para Comprar uma Casa de Férias"
 description: "Descubra 4 motivos para investir em uma casa de férias e como transformá-la em um patrimônio rentável e uma fonte de lazer."
 pubDate: 2025-03-25
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

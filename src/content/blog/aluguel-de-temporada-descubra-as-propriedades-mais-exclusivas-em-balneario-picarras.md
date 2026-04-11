@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Aluguel de Temporada: Descubra as Propriedades Mais Exclusivas em Balneário Piçarras"
 description: "Balneário Piçarras, uma encantadora cidade litorânea situada no norte de Santa Catarina, é um destino de férias que oferece uma combinação perfeita de beleza natural, charme e comodidades modernas...."
 pubDate: 2025-03-09
-heroImage: "/images/blog/3-feed.jpg"
+heroImage: "/images/blog/3-feed.avif"
 ---
 
 

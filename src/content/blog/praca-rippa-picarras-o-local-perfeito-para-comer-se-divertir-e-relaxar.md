@@ -2,7 +2,7 @@
 title: "Praça Rippa Piçarras: O Local Perfeito para Comer, se Divertir e Relaxar"
 description: "Conheça a Praça Rippa em Balneário Piçarras, um dos pontos mais animados da cidade para comer, beber e curtir com a família e amigos."
 pubDate: 2024-06-01
-heroImage: "/images/blog/unsplash-photo-1514190051997-0f6f39ca5cde.jpg"
+heroImage: "/images/blog/unsplash-photo-1514190051997-0f6f39ca5cde.avif"
 tags: ["Turismo", "Gastronomia", "Piçarras", "Lazer"]
 ---
 

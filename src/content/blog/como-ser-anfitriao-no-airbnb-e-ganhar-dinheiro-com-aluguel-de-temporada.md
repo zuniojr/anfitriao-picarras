@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como Ser Anfitrião no Airbnb e Ganhar Dinheiro com Aluguel de Temporada"
 description: "Saiba como ser anfitrião no Airbnb com um passo a passo completo, desde o cadastro do imóvel até estratégias para atrair mais hóspedes e aumentar sua renda."
 pubDate: 2025-03-20
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

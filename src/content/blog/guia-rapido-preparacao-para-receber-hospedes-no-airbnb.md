@@ -2,7 +2,7 @@
 title: "Guia Rápido: Preparação para Receber Hóspedes no Airbnb"
 description: "Guia Rápido: Preparação para Receber Hóspedes no Airbnb 1. Limpeza e Organização 2. Provisão de Amenidades 3. Instruções Claras 4. Toques Pessoais 5. Verificação Final Ao seguir este guia rápido, v..."
 pubDate: 2025-02-09
-heroImage: "/images/blog/8-feed.jpg"
+heroImage: "/images/blog/8-feed.avif"
 ---
 
 

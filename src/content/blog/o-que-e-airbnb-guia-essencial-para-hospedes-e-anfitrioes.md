@@ -1,8 +1,8 @@
-﻿---
+---
 title: "O Que é Airbnb? Guia Essencial para Hóspedes e Anfitriões"
 description: "O Airbnb tem se tornado uma das plataformas mais populares para hospedagem temporária, oferecendo uma alternativa única e personalizada aos hotéis tradicionais. Se você está curioso sobre como o Ai..."
 pubDate: 2024-06-09
-heroImage: "/images/blog/alugar.jpg"
+heroImage: "/images/blog/alugar.avif"
 ---
 
 

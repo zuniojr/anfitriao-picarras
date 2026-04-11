@@ -2,7 +2,7 @@
 title: "Viajando com Crianças: Por que Escolher um Imóvel de Temporada"
 description: "# Viajando com Crianças: Por que Escolher um Imóvel de Temporada"
 pubDate: 2025-03-24
-heroImage: "/images/blog/picarras.png"
+heroImage: "/images/blog/picarras.avif"
 ---
 
 

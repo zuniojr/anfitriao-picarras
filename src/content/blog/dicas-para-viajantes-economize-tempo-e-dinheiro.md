@@ -2,7 +2,7 @@
 title: "Dicas para Viajantes: Economize tempo e dinheiro."
 description: "Dicas para Viajantes: Economize tempo e dinheiro."
 pubDate: 2025-02-27
-heroImage: "/images/blog/econo.jpg"
+heroImage: "/images/blog/econo.avif"
 ---
 
 

@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como Se Tornar um Anfitrião no Airbnb: Requisitos e Dicas"
 description: "O Airbnb revolucionou a maneira como as pessoas viajam e encontram acomodações em todo o mundo. Com milhões de usuários ativos e uma ampla variedade de opções de hospedagem, tornar-se um anfitrião ..."
 pubDate: 2024-06-09
-heroImage: "/images/blog/side-view-happy-woman-scaled.jpg"
+heroImage: "/images/blog/side-view-happy-woman-scaled.avif"
 ---
 
 

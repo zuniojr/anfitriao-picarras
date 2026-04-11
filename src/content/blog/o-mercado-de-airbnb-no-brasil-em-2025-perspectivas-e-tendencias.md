@@ -2,7 +2,7 @@
 title: "O Mercado de Airbnb no Brasil em 2025: Perspectivas e Tendências"
 description: "Saiba quais são as grandes tendências do aluguel por temporada no Brasil em 2025 e como se posicionar para aproveitar o crescimento do mercado."
 pubDate: 2025-01-10
-heroImage: "/images/blog/unsplash-photo-1611974789855-9c2a0a7236a3.jpg"
+heroImage: "/images/blog/unsplash-photo-1611974789855-9c2a0a7236a3.avif"
 tags: ["Mercado", "2025", "Airbnb", "Tendências"]
 ---
 

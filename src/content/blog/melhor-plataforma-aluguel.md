@@ -1,8 +1,8 @@
-﻿---
+---
 title: "VRBO vs. Airbnb vs. Booking.com: Qual Plataforma Escolher para Aluguéis por Temporada?"
 description: "Descubra qual plataforma escolher para listar seu imóvel de temporada. Compare VRBO, Airbnb, Booking.com e mais para aumentar sua visibilidade e receita."
 pubDate: 2025-03-26
-heroImage: "/images/blog/Anfitriao-picarras-3.png"
+heroImage: "/images/blog/Anfitriao-picarras-3.avif"
 ---
 
 

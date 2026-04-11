@@ -2,7 +2,7 @@
 title: "Taxas do Airbnb em 2024: Quanto Paga o Anfitrião e Quanto Paga o Hóspede?"
 description: "Guia completo e atualizado sobre as taxas de serviço do Airbnb em 2024. Saiba o que o anfitrião e o hóspede pagam em cada reserva e como calcular seu lucro líquido."
 pubDate: 2024-03-15
-heroImage: "/images/blog/unsplash-photo-1579621970563-ebec7560ff3e.jpg"
+heroImage: "/images/blog/unsplash-photo-1579621970563-ebec7560ff3e.avif"
 ---
 
 Uma das dúvidas mais comuns de quem está começando no Airbnb — seja como anfitrião ou como hóspede — é entender **exatamente quanto a plataforma cobra**. O modelo de taxas do Airbnb não é complexo, mas tem nuances importantes que fazem toda a diferença no seu planejamento financeiro.

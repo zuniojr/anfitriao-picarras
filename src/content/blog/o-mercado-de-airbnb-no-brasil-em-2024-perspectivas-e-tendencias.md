@@ -2,7 +2,7 @@
 title: "O Mercado de Airbnb no Brasil em 2024: Perspectivas e Tendências"
 description: "Entenda as principais tendências e perspectivas para o mercado de Airbnb no Brasil em 2024 e saiba como se preparar para o sucesso."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1460925895917-afdab827c52f.jpg"
+heroImage: "/images/blog/unsplash-photo-1460925895917-afdab827c52f.avif"
 tags: ["Mercado", "2024", "Airbnb", "Brasil"]
 ---
 

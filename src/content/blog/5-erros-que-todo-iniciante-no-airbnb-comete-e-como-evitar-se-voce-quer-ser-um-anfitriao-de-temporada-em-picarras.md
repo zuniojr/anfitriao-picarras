@@ -2,7 +2,7 @@
 title: "5 Erros Que Todo Iniciante no Airbnb Comete — e Como Evitar"
 description: "Descubra os 5 erros mais comuns cometidos por iniciantes no Airbnb e saiba como evitá-los para ter sucesso como anfitrião de temporada em Piçarras."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1590247813693-5541d1c609fd.jpg"
+heroImage: "/images/blog/unsplash-photo-1590247813693-5541d1c609fd.avif"
 tags: ["Airbnb", "Anfitrião", "Piçarras", "Dicas"]
 ---
 

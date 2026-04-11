@@ -2,7 +2,7 @@
 title: "Políticas de Cancelamento no Airbnb: Qual a Melhor para seu Perfil?"
 description: "Flexível, moderada ou rigorosa? Entenda as diferenças entre as políticas de cancelamento do Airbnb e escolha a que melhor protege seu negócio em Balneário Piçarras."
 pubDate: 2024-06-09
-heroImage: "/images/blog/politicas-cancelamento-airbnb.png"
+heroImage: "/images/blog/politicas-cancelamento-airbnb.avif"
 tags: ["Gestão", "Airbnb", "Segurança", "Anfitrião"]
 ---
 

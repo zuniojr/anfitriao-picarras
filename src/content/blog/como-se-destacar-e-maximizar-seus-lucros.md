@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como se Destacar e Maximizar seus Lucros no Airbnb"
 description: "Aprenda como se destacar como Airbnb anfitrião com dicas de apresentação, preços, atendimento e limpeza para aumentar suas reservas e avaliações."
 pubDate: 2025-03-20
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Aluguel de Airbnb em Piçarras: As Melhores Opções para sua Temporada"
 description: "Encontre as melhores opções de aluguel no Airbnb em Balneário Piçarras. Apartamentos frente ao mar, casas com piscina e muito mais para sua temporada perfeita."
 pubDate: 2024-09-15
-heroImage: "/images/blog/unsplash-photo-1582268611958-ebfd161ef9cf.jpg"
+heroImage: "/images/blog/unsplash-photo-1582268611958-ebfd161ef9cf.avif"
 tags: ["Airbnb", "Piçarras", "Aluguel", "Temporada"]
 ---
 

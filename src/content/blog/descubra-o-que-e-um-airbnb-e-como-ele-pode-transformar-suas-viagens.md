@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Descubra o que é um Airbnb e como ele pode transformar suas viagens"
 description: "Você já ouviu falar em Airbnb, mas ainda não sabe bem do que se trata? Então, vem comigo que eu vou te contar tudo sobre essa plataforma incrível que está revolucionando o jeito de viajar. Prepare-..."
 pubDate: 2024-06-09
-heroImage: "/images/blog/mala.jpg"
+heroImage: "/images/blog/mala.avif"
 ---
 
 

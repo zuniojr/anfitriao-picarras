@@ -2,7 +2,7 @@
 title: "7 Dicas de Fotografia para seu Imóvel no Airbnb em Piçarras"
 description: "A primeira impressão é a que fica. Aprenda como tirar fotos profissionais do seu imóvel de temporada para atrair mais reservas e se destacar no Airbnb."
 pubDate: 2024-06-06
-heroImage: "/images/blog/fotografia-airbnb-dicas.png"
+heroImage: "/images/blog/fotografia-airbnb-dicas.avif"
 tags: ["Dicas", "Marketing", "Airbnb", "Fotografia"]
 ---
 

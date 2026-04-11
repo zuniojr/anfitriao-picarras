@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Aluga-se um Paraíso em Piçarras"
 description: "A série Aluga-se um Paraíso, da Netflix, mostra imóveis incríveis de temporada e inspira anfitriões com dicas valiosas para encantar hóspedes."
 pubDate: 2025-04-07
-heroImage: "/images/blog/picarras-1.png"
+heroImage: "/images/blog/picarras-1.avif"
 ---
 
 

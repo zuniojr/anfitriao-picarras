@@ -2,12 +2,12 @@
 title: "Hora de tirar férias!"
 description: "Cansado? Estressado? É Hora De Tirar Férias! As Férias São Muito Mais Do Que Apenas Uma Oportunidade Para Relaxar Na Praia Ou Viajar Para Um Lugar Distante. Elas São Essenciais Para A Sua Saúde Física, Mental E Emocional."
 pubDate: 2024-03-31
-heroImage: "/images/blog/ferias-em-picarras.png"
+heroImage: "/images/blog/ferias-em-picarras.avif"
 ---
 
 # Hora de tirar férias!
 
-![Estrela do mar, óculos de sol e toalha na areia da praia de Piçarras](/images/blog/ferias-em-picarras.png)
+![Estrela do mar, óculos de sol e toalha na areia da praia de Piçarras](/images/blog/ferias-em-picarras.avif)
 
 ## Cansado? Estressado? É Hora De Tirar Férias!
 

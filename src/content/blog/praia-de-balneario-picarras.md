@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Praia de Balneário Piçarras: Beleza Natural e Estrutura para Toda a Família"
 description: "Conheça a praia de Balneário Piçarras, um dos destinos mais bonitos de Santa Catarina. Mar calmo, estrutura completa e natureza preservada te esperam."
 pubDate: 2025-04-07
-heroImage: "/images/blog/picarras-1.png"
+heroImage: "/images/blog/picarras-1.avif"
 ---
 
 

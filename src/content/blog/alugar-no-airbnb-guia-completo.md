@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como Alugar Sua Propriedade no Airbnb: Guia Completo"
 description: "Se você está pensando em alugar sua propriedade no Airbnb, você está prestes a entrar em um mundo emocionante de oportunidades. O Airbnb oferece uma plataforma global que conecta milhões de viajant..."
 pubDate: 2025-03-09
-heroImage: "/images/blog/pig-picarras.jpg"
+heroImage: "/images/blog/pig-picarras.avif"
 ---
 
 

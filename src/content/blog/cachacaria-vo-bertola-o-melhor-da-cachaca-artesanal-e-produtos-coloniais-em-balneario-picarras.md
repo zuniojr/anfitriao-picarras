@@ -2,7 +2,7 @@
 title: "Cachaçaria Vovô Bertola: O Melhor da Cachaça Artesanal em Balneário Piçarras"
 description: "Descubra a Cachaçaria Vovô Bertola, um destino imperdível para os amantes de cachaça artesanal e produtos coloniais em Balneário Piçarras."
 pubDate: 2024-06-01
-heroImage: "/images/blog/unsplash-photo-1569529465841-dfecdab7503b.jpg"
+heroImage: "/images/blog/unsplash-photo-1569529465841-dfecdab7503b.avif"
 tags: ["Gastronomia", "Turismo", "Piçarras", "Cachaça Artesanal"]
 ---
 

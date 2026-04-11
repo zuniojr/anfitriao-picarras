@@ -1,8 +1,8 @@
-﻿---
+---
 title: "As Vantagens do Aluguel de Temporada para Imóvel Parado"
 description: "Descubra as vantagens de alugar seu imóvel por temporada em Piçarras. Aumente sua rentabilidade, valorize sua propriedade e aproveite a flexibilidade do mercado."
 pubDate: 2025-03-19
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

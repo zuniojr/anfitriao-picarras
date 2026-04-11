@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Aluguel de Temporada: A Melhor Escolha para Viagens em Família"
 description: "Descubra as vantagens do aluguel de temporada para viagens em família. Mais espaço, privacidade e economia para momentos inesquecíveis!"
 pubDate: 2025-03-23
-heroImage: "/images/blog/familia.png"
+heroImage: "/images/blog/familia.avif"
 ---
 
 

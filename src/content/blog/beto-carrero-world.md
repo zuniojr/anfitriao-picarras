@@ -2,7 +2,7 @@
 title: "Beto Carrero World: Diversão garantida para todas as idades!"
 description: "Beto Carrero World: Diversão garantida para todas as idades!"
 pubDate: 2025-04-07
-heroImage: "/images/blog/tamanho-beto-carrero-world.jpg"
+heroImage: "/images/blog/tamanho-beto-carrero-world.avif"
 ---
 
 

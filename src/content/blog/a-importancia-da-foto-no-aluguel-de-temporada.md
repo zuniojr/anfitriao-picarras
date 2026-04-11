@@ -1,8 +1,8 @@
-﻿---
+---
 title: "A Importância da Foto no Aluguel de Temporada"
 description: "Entenda por que fotos de qualidade são essenciais para o sucesso do seu aluguel de temporada em Piçarras. Atraia mais hóspedes e aumente suas reservas com imagens impactantes."
 pubDate: 2025-03-19
-heroImage: "/images/blog/Como-Alugar-Seu-Imovel-em-Picarras-e-Atrair-Mais-Turistas.png"
+heroImage: "/images/blog/Como-Alugar-Seu-Imovel-em-Picarras-e-Atrair-Mais-Turistas.avif"
 ---
 
 

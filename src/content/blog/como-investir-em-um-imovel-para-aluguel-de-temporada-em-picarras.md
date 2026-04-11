@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como Investir em um Imóvel para Aluguel de Temporada em Piçarras"
 description: "Descubra como investir em aluguel de temporada em Piçarras e maximize seus lucros com a gestão de um anfitrião profissional. Saiba mais!"
 pubDate: 2025-03-24
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "O que é a Bandeira Azul e por que Balneário Piçarras é Referência"
 description: "Descubra o significado do selo Bandeira Azul, os critérios de avaliação e por que Balneário Piçarras ostenta esse título com orgulho em suas praias."
 pubDate: 2024-06-05
-heroImage: "/images/blog/bandeira-azul-picarras.png"
+heroImage: "/images/blog/bandeira-azul-picarras.avif"
 tags: ["Bandeira Azul", "Turismo", "Meio Ambiente", "Piçarras"]
 ---
 

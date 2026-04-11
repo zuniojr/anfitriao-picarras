@@ -1,8 +1,8 @@
-﻿---
+---
 title: "5 Dicas Essenciais para Fotos de Imóveis de Temporada"
 description: "Descubra 5 dicas práticas para tirar fotos incríveis do seu imóvel de temporada e atrair mais reservas. Iluminação, organização e detalhes fazem toda a diferença."
 pubDate: 2025-04-07
-heroImage: "/images/blog/picarras-2.png"
+heroImage: "/images/blog/picarras-2.avif"
 ---
 
 

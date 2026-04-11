@@ -2,7 +2,7 @@
 title: "Explorando as Profundezas: A Experiência do Museu Oceanográfico da UNIVALI"
 description: "Experiência do Museu Oceanográfico da UNIVALI em Bal. Piçarras."
 pubDate: 2025-02-26
-heroImage: "/images/blog/blog-1920por800-e1709640544208.jpg"
+heroImage: "/images/blog/blog-1920por800-e1709640544208.avif"
 ---
 
 

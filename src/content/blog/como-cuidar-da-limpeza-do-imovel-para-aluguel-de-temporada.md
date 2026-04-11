@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como Cuidar da Limpeza do Imóvel para Aluguel de Temporada"
 description: "Mantenha seu imóvel impecável para aluguel de temporada! Descubra dicas essenciais de limpeza, organização e manutenção para conquistar mais hóspedes em Piçarras."
 pubDate: 2025-03-19
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

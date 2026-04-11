@@ -2,7 +2,7 @@
 title: "Desvendando o Airbnb: Dicas de um Anfitrião de Temporada em Piçarras para o Sucesso!"
 description: "Descubra como se tornar um anfitrião de temporada de sucesso em Piçarras com dicas essenciais para otimizar seu anúncio no Airbnb, precificar corretamente e encantar seus hóspedes."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1556912172-45b7abe8b7e1.jpg"
+heroImage: "/images/blog/unsplash-photo-1556912172-45b7abe8b7e1.avif"
 ---
 
 Ser um anfitrião de sucesso no Airbnb em Balneário Piçarras vai além de apenas abrir as portas da sua casa. Exige estratégia, dedicação e um toque de hospitalidade local. Neste post, compartilhamos dicas valiosas para você se destacar e garantir avaliações cinco estrelas.

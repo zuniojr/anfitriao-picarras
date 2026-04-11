@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Alugue apenas quando quiser! O imóvel é seu!"
 description: "Descubra a flexibilidade do aluguel por temporada e aproveite seu imóvel em Balneário Piçarras nos melhores momentos! Nesta seção, exploraremos os benefícios do aluguel por temporada e como você po..."
 pubDate: 2025-02-27
-heroImage: "/images/blog/alugue-quando-quiser.jpg"
+heroImage: "/images/blog/alugue-quando-quiser.avif"
 ---
 
 

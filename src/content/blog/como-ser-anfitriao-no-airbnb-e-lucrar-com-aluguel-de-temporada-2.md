@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como Ser Anfitrião no Airbnb e Lucrar com Aluguel de Temporada"
 description: "Aprenda como ser um anfitrião no Airbnb, criar um anúncio de sucesso e otimizar seus ganhos com aluguel de temporada."
 pubDate: 2025-03-20
-heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.png"
+heroImage: "/images/blog/Guia-Completo-para-Ser-um-Anfitriao-de-Sucesso-em-Picarras-1-1.avif"
 ---
 
 

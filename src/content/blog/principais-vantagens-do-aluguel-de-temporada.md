@@ -2,7 +2,7 @@
 title: "Principais vantagens do aluguel de temporada"
 description: "Descubra por que o aluguel de temporada em Balneário Piçarras está superando as hospedagens tradicionais e como ele pode beneficiar você."
 pubDate: 2024-02-26
-heroImage: "/images/blog/principais-vantagens-aluguel-temporada.png"
+heroImage: "/images/blog/principais-vantagens-aluguel-temporada.avif"
 ---
 
 Aluguel de temporada é uma forma de hospedagem que tem ganhado popularidade com o crescimento das plataformas online de aluguel. Comparado às hospedagens tradicionais em hotéis ou pousadas, o aluguel de temporada oferece inúmeras vantagens.

@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Como a Tecnologia Está Transformando a Gestão de Imóveis de Temporada em Piçarras"
 description: "Descubra como a tecnologia está revolucionando a gestão de imóveis de temporada em Piçarras, com automação, plataformas de reservas e análise de dados para maximizar lucros."
 pubDate: 2025-03-26
-heroImage: "/images/blog/Bal-picarras-1.png"
+heroImage: "/images/blog/Bal-picarras-1.avif"
 ---
 
 

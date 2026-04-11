@@ -2,7 +2,7 @@
 title: "Balneário Piçarras: Um paraíso à beira-mar em Santa Catarina"
 description: "Descubra a magia de Balneário Piçarras, uma cidade encantadora no litoral norte de Santa Catarina, que oferece belezas naturais exuberantes, atividades para todos os gostos e uma infraestrutura completa."
 pubDate: 2024-03-05
-heroImage: "/images/blog/paraiso-beira-mar-picarras.png"
+heroImage: "/images/blog/paraiso-beira-mar-picarras.avif"
 ---
 
 Descubra a magia de Balneário Piçarras, uma cidade encantadora no litoral norte de Santa Catarina, que oferece belezas naturais exuberantes, atividades para todos os gostos e uma infraestrutura completa para uma experiência inesquecível.

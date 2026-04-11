@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Aluguel de verão em Balneário Piçarras no Airbnb: O guia completo para encontrar a melhor hospedagem"
 description: "Balneário Piçarras é uma cidade litorânea localizada no estado de Santa Catarina, no sul do Brasil. Famosa pelas suas praias de águas cristalinas e pela proximidade com o Parque Beto Carrero World,..."
 pubDate: 2024-02-27
-heroImage: "/images/blog/Picarras2.jpg"
+heroImage: "/images/blog/Picarras2.avif"
 ---
 
 

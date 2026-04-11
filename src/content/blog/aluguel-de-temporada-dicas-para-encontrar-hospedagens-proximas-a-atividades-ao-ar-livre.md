@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Aluguel de Temporada: Dicas para Encontrar Hospedagens Próximas a Atividades ao Ar Livre"
 description: "Viajar para destinos que oferecem uma variedade de atividades ao ar livre pode ser uma experiência emocionante e revigorante. Para os amantes da natureza e aventureiros, encontrar o alojamento idea..."
 pubDate: 2025-02-09
-heroImage: "/images/blog/5-1.jpg"
+heroImage: "/images/blog/5-1.avif"
 ---
 
 

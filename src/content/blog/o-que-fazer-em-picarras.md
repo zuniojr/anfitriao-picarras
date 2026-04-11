@@ -2,7 +2,7 @@
 title: "O que fazer em Balneário Piçarras"
 description: "Descubra as melhores opções para aproveitar a noite em Balneário Piçarras! Confira os principais bares, pubs e atividades noturnas para uma experiência inesquecível."
 pubDate: 2025-04-07
-heroImage: "/images/blog/Bal-picarras-1.png"
+heroImage: "/images/blog/Bal-picarras-1.avif"
 ---
 
 

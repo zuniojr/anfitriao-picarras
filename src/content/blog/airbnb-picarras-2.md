@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Airbnb Piçarras"
 description: "Descubra como o Anfitrião Piçarras oferece administração completa para imóveis no Airbnb, garantindo mais lucros e menos preocupações para os proprietários."
 pubDate: 2025-04-19
-heroImage: "/images/blog/bal-picarras-1.jpg"
+heroImage: "/images/blog/bal-picarras-1.avif"
 ---
 
 

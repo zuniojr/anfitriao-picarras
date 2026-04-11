@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Aluguel de verão em Balneário Piçarras no Airbnb"
 description: "Famosa pelas suas praias de águas cristalinas e pela proximidade com o Parque Beto Carrero World, um dos parques temáticos mais famosos do país, Balneário Piçarras é um destino turístico popular du..."
 pubDate: 2025-04-07
-heroImage: "/images/blog/Anfitriao-picarras-4.png"
+heroImage: "/images/blog/Anfitriao-picarras-4.avif"
 ---
 
 

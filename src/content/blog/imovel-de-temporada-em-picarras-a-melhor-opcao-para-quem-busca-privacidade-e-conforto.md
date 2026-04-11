@@ -2,7 +2,7 @@
 title: "Imóvel de Temporada em Piçarras: A Melhor Opção para Privacidade e Conforto"
 description: "Por que um imóvel de temporada em Balneário Piçarras supera hotéis em privacidade, espaço e conforto para famílias e casais."
 pubDate: 2024-06-01
-heroImage: "/images/blog/unsplash-photo-1568605114967-8130f3a36994.jpg"
+heroImage: "/images/blog/unsplash-photo-1568605114967-8130f3a36994.avif"
 tags: ["Hospedagem", "Conforto", "Privacidade", "Piçarras"]
 ---
 

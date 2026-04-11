@@ -2,7 +2,7 @@
 title: "Airbnb: O que é?"
 description: "Explicação simples e direta sobre o que é o Airbnb, como surgiu e por que se tornou a maior plataforma de hospedagem alternativa do mundo."
 pubDate: 2024-09-01
-heroImage: "/images/blog/unsplash-photo-1582268611958-ebfd161ef9cf.jpg"
+heroImage: "/images/blog/unsplash-photo-1582268611958-ebfd161ef9cf.avif"
 tags: ["Airbnb", "O que é", "Hospedagem", "Plataforma"]
 ---
 

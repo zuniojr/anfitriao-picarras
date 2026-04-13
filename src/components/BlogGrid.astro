@@ -40,7 +40,7 @@ function formatDate(date: Date) {
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       {sortedPosts.map((post) => (
         <article class="group bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-sm transition-all duration-500 hover:shadow-2xl hover:border-orange-500/20 flex flex-col h-full active:scale-[0.98]">
-          <a href={`/blog/${post.slug}/`} target="_blank" class="relative h-64 overflow-hidden block">
+          <a href={`/blog/${post.slug}/`} class="relative h-64 overflow-hidden block">
             <img 
               src={post.data.heroImage} 
               alt={post.data.title}
@@ -57,7 +57,7 @@ function formatDate(date: Date) {
           <div class="p-8 flex flex-col flex-1">
             {/* Data removida a pedido do usuário */}
             
-            <a href={`/blog/${post.slug}/`} target="_blank" class="block group/title mb-4">
+            <a href={`/blog/${post.slug}/`} class="block group/title mb-4">
               <h3 class="text-xl font-bold text-slate-900 leading-tight group-hover/title:text-orange-600 transition-colors line-clamp-2">
                 {post.data.title}
               </h3>
@@ -70,7 +70,6 @@ function formatDate(date: Date) {
             <div class="mt-auto">
                 <a 
                 href={`/blog/${post.slug}/`}
-                target="_blank"
                 class="inline-flex items-center gap-2 text-xs font-black uppercase tracking-widest text-slate-900 group-hover:text-orange-600 transition-all duration-300"
               >
                 Continuar lendo

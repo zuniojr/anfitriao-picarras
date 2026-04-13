@@ -1,12 +1,17 @@
 ---
 import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import CTAWhatsApp from '../components/CTAWhatsApp.astro';
 
 interface Props {
 	title: string;
 	description?: string;
+	showCTA?: boolean;
 }
 
-const { title, description = "Anfitrião Piçarras - Gestão Profissional de Imóveis para Temporada no Litoral de Santa Catarina" } = Astro.props;
+const { title, description = "Anfitrião Piçarras - Gestão Profissional de Imóveis para Temporada no Litoral de Santa Catarina", showCTA = true } = Astro.props;
+const isHome = Astro.url.pathname === '/' || Astro.url.pathname === '/index.html';
+const finalShowCTA = showCTA && !isHome;
 ---
 
 <!doctype html>
@@ -22,6 +27,8 @@ const { title, description = "Anfitrião Piçarras - Gestão Profissional de Im�
 	<body class="bg-white text-slate-900 font-sans antialiased selection:bg-orange-600 selection:text-white m-0 p-0 overflow-x-hidden">
 		<Header />
 		<slot />
+		{finalShowCTA && <CTAWhatsApp />}
+		<Footer />
 	</body>
 </html>
 

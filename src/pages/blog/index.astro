@@ -1,6 +1,5 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 
 const posts = await getCollection('blog');
@@ -102,24 +101,5 @@ const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDa
       </div>
     </section>
 
-    <!-- CTA Final -->
-    <section class="py-24 bg-slate-900">
-      <div class="container mx-auto px-4 text-center">
-        <h2 class="text-4xl md:text-5xl font-black text-white mb-6 leading-tight">
-          Pronto para começar a faturar <span class="text-orange-500">20% a 40%</span> mais?
-        </h2>
-        <p class="text-slate-400 text-xl mb-12 max-w-3xl mx-auto">
-          Não deixe seu imóvel vazio em Balneário Piçarras. Fale com a Anfitrião Piçarras e profissionalize sua gestão hoje mesmo.
-        </p>
-        <a 
-          href="https://wa.me/5547996372129"
-          target="_blank"
-          class="inline-flex items-center gap-3 bg-orange-600 hover:bg-orange-700 text-white px-12 py-6 rounded-full font-black text-xl transition-all duration-300 shadow-2xl shadow-orange-900/50 hover:scale-105"
-        >
-          SOLICITAR AVALIAÇÃO DO IMÓVEL
-        </a>
-      </div>
-    </section>
   </main>
-  <Footer />
 </Layout>

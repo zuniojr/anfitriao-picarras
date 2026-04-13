@@ -1,8 +1,8 @@
----
+﻿---
 title: "Pousada ou Airbnb em Piçarras: Qual a Melhor Opção para sua Viagem?"
 description: "Compare pousadas e Airbnb em Balneário Piçarras e descubra qual tipo de hospedagem é a melhor opção para o seu perfil de viajante."
 pubDate: 2024-10-15
-heroImage: "/images/blog/unsplash-photo-1455587734955-081b22074882.avif"
+heroImage: "/images/blog/pousada-ou-airbnb-em-picarras-qual-a-melhor-opcao.avif"
 tags: ["Comparação", "Pousada", "Airbnb", "Piçarras"]
 ---
 

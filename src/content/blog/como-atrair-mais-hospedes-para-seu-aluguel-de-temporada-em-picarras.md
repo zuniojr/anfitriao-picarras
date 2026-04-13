@@ -1,8 +1,8 @@
----
+﻿---
 title: "Como Atrair Mais Hóspedes para seu Imóvel em Piçarras"
 description: "Dicas práticas para aumentar a visibilidade e o apelo do seu imóvel de temporada, garantindo agenda cheia."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1520250497591-112f2f40a3f4.avif"
+heroImage: "/images/blog/aluguel-de-temporada-a-melhor-escolha-para-viagens-confortaveis-e-seguras.avif"
 tags: ["Marketing", "Hospitalidade", "Airbnb", "Piçarras"]
 ---
 

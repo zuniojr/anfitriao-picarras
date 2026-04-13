@@ -1,8 +1,8 @@
----
+﻿---
 title: "Museu Oceanográfico Univali: Uma Viagem ao Fundo do Mar"
 description: "Descubra tudo sobre o Museu Oceanográfico Univali em Piçarras-SC. Um passeio educativo e inesquecível para toda a família no litoral catarinense."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1534067783941-51c9c23ecefd.avif"
+heroImage: "/images/blog/museu-oceanografico-univali-uma-viagem-ao-fundo-do-mar.avif"
 ---
 
 Você sabia que em Balneário Piçarras se encontra o maior museu oceanográfico da América Latina? O **Museu Oceanográfico Univali (MOVI)** é um tesouro que merece ser visitado.

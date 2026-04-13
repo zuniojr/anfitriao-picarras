@@ -1,8 +1,8 @@
----
+﻿---
 title: "Challenge Rock: O Templo do Rock em Balneário Piçarras"
 description: "Conheça o Challenge Rock, o espaço dedicado à cultura rock em Balneário Piçarras, com shows ao vivo, ambiente único e boa gastronomia."
 pubDate: 2024-07-01
-heroImage: "/images/blog/unsplash-photo-1470229722913-7c0e2dbbafd3.avif"
+heroImage: "/images/blog/challenge-rock-o-templo-do-rock-em-balneario-picarras.avif"
 tags: ["Turismo", "Rock", "Entretenimento", "Piçarras"]
 ---
 

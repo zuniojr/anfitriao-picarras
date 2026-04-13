@@ -1,8 +1,8 @@
----
+﻿---
 title: "Aluguel de Temporada: A Melhor Escolha para Viagens Confortáveis e Seguras"
 description: "Descubra por que o aluguel de temporada é a opção mais confortável e segura para suas férias, superando hotéis em praticidade, espaço e custo-benefício."
 pubDate: 2024-09-15
-heroImage: "/images/blog/unsplash-photo-1520250497591-112f2f40a3f4.avif"
+heroImage: "/images/blog/aluguel-de-temporada-a-melhor-escolha-para-viagens-confortaveis-e-seguras.avif"
 tags: ["Aluguel de Temporada", "Conforto", "Segurança", "Viagem"]
 ---
 

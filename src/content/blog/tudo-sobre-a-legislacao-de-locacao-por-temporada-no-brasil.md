@@ -1,8 +1,8 @@
----
+﻿---
 title: "Tudo Sobre a Legislação de Locação por Temporada no Brasil"
 description: "Guia completo sobre as leis que regem o aluguel de temporada no Brasil: Lei do Inquilinato, direitos e deveres de anfitriões e hóspedes, condomínios e tributação."
 pubDate: 2024-10-01
-heroImage: "/images/blog/unsplash-photo-1589829545856-d10d557cf95f.avif"
+heroImage: "/images/blog/os-7-principais-desafios-legais-ao-alugar-um-imovel-por-temporada.avif"
 tags: ["Legislação", "Lei do Inquilinato", "Direitos", "Aluguel de Temporada"]
 ---
 

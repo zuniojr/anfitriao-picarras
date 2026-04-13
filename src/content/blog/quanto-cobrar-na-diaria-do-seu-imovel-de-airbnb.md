@@ -1,8 +1,8 @@
----
+﻿---
 title: "Quanto Cobrar na Diária do seu Imóvel de Airbnb"
 description: "Saiba como calcular o valor ideal da diária para o seu imóvel, equilibrando competitividade e lucro máximo."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1554224155-6726b3ff858f.avif"
+heroImage: "/images/blog/como-aumentar-faturamento-airbnb-picarras.avif"
 tags: ["Precificação", "Airbnb", "Finanças", "Anfitrião"]
 ---
 

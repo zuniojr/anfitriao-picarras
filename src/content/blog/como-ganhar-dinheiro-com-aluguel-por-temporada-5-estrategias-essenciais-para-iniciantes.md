@@ -1,8 +1,8 @@
----
+﻿---
 title: "Como Ganhar Dinheiro com Aluguel por Temporada: 5 Estratégias Essenciais para Iniciantes"
 description: "5 estratégias práticas e comprovadas para iniciantes que querem transformar seu imóvel em Balneário Piçarras em uma fonte de renda real."
 pubDate: 2024-06-01
-heroImage: "/images/blog/unsplash-photo-1553729459-efe14ef6055d.avif"
+heroImage: "/images/blog/como-ganhar-dinheiro-com-aluguel-por-temporada-5-estrategias-essenciais-para-iniciantes.avif"
 tags: ["Renda Extra", "Estratégia", "Iniciantes", "Aluguel de Temporada"]
 ---
 

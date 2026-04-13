@@ -1,8 +1,8 @@
----
+﻿---
 title: "Mensagem de Boas-Vindas para Hóspedes: Guia Prático"
 description: "A hospitalidade começa na comunicação. Saiba como criar mensagens que encantam e facilitam a vida do seu hóspede."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1517245386807-bb43f82c33c4.avif"
+heroImage: "/images/blog/mensagem-de-boas-vindas-para-hospedes.avif"
 tags: ["Hospitalidade", "Comunicação", "Dicas", "Check-in"]
 ---
 

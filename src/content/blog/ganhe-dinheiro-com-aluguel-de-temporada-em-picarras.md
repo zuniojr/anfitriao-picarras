@@ -1,8 +1,8 @@
----
+﻿---
 title: "Ganhe Dinheiro com Aluguel de Temporada em Piçarras"
 description: "Descubra como transformar seu imóvel em Balneário Piçarras em uma fonte de renda consistente com o aluguel de temporada."
 pubDate: 2024-06-01
-heroImage: "/images/blog/unsplash-photo-1579621970563-ebec7560ff3e.avif"
+heroImage: "/images/blog/ganhe-dinheiro-com-aluguel-de-temporada-em-picarras.avif"
 tags: ["Renda Extra", "Aluguel de Temporada", "Piçarras", "Investimento"]
 ---
 

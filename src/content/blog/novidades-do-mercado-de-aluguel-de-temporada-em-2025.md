@@ -1,8 +1,8 @@
----
+﻿---
 title: "Novidades do Mercado de Aluguel de Temporada em 2025"
 description: "Fique por dentro das principais novidades do mercado de aluguel de temporada em 2025 e prepare seu imóvel para as mudanças que estão chegando."
 pubDate: 2025-01-15
-heroImage: "/images/blog/unsplash-photo-1518770660439-4636190af475.avif"
+heroImage: "/images/blog/novidades-do-mercado-de-aluguel-de-temporada-em-2025.avif"
 tags: ["Novidades", "2025", "Aluguel de Temporada", "Tendências"]
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 title: "Investir em Aluguel em Piçarras: É um Bom Negócio?"
 description: "Descubra se investir em aluguel de temporada em Piçarras é lucrativo e quais são as principais vantagens dessa modalidade na região."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1582407947304-fd86f028f716.avif"
+heroImage: "/images/blog/investir-em-aluguel-de-temporada-em-picarras-e-um-bom-negocio.avif"
 tags: ["Investimento", "Piçarras", "Real Estate"]
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 title: "Turismo de Experiência: O Que É e Qual a Sua Importância"
 description: "Entenda o que é o turismo de experiência e como ele está transformando a forma de viajar, proporcionando memórias únicas e conexões reais com o destino."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1501785888041-af3ef285b470.avif"
+heroImage: "/images/blog/turismo-de-experiencia-o-que-e-e-qual-a-sua-importancia.avif"
 ---
 
 O modo como as pessoas viajam está mudando. Se antigamente o objetivo era apenas "ver" o destino, hoje o viajante quer "viver" o lugar. É aqui que entra o **Turismo de Experiência**.

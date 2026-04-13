@@ -1,8 +1,8 @@
----
+﻿---
 title: "Airbnb: O que é, Como Funciona e Como Começar a Usar"
 description: "Guia prático para entender o Airbnb do zero: o que é a plataforma, como funciona para hospedar ou se hospedar, e como dar os primeiros passos."
 pubDate: 2024-09-01
-heroImage: "/images/blog/unsplash-photo-1560448204-e02f11c3d0e2.avif"
+heroImage: "/images/blog/airbnb-o-que-e-como-funciona-e-como-comecar-a-usar.avif"
 tags: ["Airbnb", "Como Funciona", "Iniciantes", "Guia"]
 ---
 

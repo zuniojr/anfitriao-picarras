@@ -1,8 +1,8 @@
----
+﻿---
 title: "Anfitrião Profissional em Piçarras: O que é e Por que Contratar"
 description: "Entenda o que é um anfitrião profissional de aluguel de temporada em Balneário Piçarras e como essa gestão especializada pode multiplicar seus resultados."
 pubDate: 2024-09-15
-heroImage: "/images/blog/unsplash-photo-1521791136064-7986c2920216.avif"
+heroImage: "/images/blog/anfitriao-profissional-picarras.avif"
 tags: ["Anfitrião Profissional", "Gestão", "Piçarras", "Serviço"]
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 title: "Dicas de Decoração para Quartos Pequenos no Aluguel de Temporada"
 description: "Maximize o espaço e o conforto do seu Airbnb com dicas práticas de decoração para quartos pequenos, garantindo uma melhor avaliação dos hóspedes."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1522771739844-6a9f6d5f14af.avif"
+heroImage: "/images/blog/dicas-de-decoracao-para-quartos-pequenos-no-aluguel-de-temporada.avif"
 ---
 
 No mercado de aluguel por temporada, a primeira impressão é a que fica. E quartos pequenos, se não forem bem planejados, podem passar uma sensação de aperto nas fotos. Aqui estão dicas de ouro para transformar pequenos espaços em ambientes acolhedores.

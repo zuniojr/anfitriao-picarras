@@ -1,8 +1,8 @@
----
+﻿---
 title: "5 Itens Essenciais para Montar um Imóvel de Airbnb"
 description: "Não esqueça do básico que faz a diferença. Confira os itens que garantem a satisfação total do seu hóspede."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1586023492125-27b2c045efd7.avif"
+heroImage: "/images/blog/5-itens-essenciais-para-montar-um-imovel-de-airbnb.avif"
 tags: ["Decoração", "Checklist", "Airbnb", "Conforto"]
 ---
 

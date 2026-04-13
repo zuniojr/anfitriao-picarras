@@ -1,8 +1,8 @@
----
+﻿---
 title: "7 Razões para Escolher um Aluguel de Temporada para sua Viagem a Piçarras"
 description: "Descubra por que alugar um imóvel de temporada em Balneário Piçarras é muito melhor do que se hospedar em hotel. 7 razões que convencem."
 pubDate: 2024-06-15
-heroImage: "/images/blog/unsplash-photo-1499793983690-e29da59ef1c2.avif"
+heroImage: "/images/blog/7-razoes-para-escolher-um-aluguel-de-temporada-para-sua-viagem-para-picarras.avif"
 tags: ["Hospedagem", "Aluguel de Temporada", "Dicas", "Piçarras"]
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 title: "Passo a Passo para Alugar no Airbnb: Tudo que Você Precisa Saber"
 description: "Guia completo e prático para alugar um imóvel no Airbnb em Balneário Piçarras, da pesquisa ao check-in, sem complicações."
 pubDate: 2024-06-01
-heroImage: "/images/blog/unsplash-photo-1553073520-80b5ad5ec870.avif"
+heroImage: "/images/blog/passo-a-passo-para-alugar-no-airbnb-tudo-o-que-voce-precisa-saber.avif"
 tags: ["Airbnb", "Guia Prático", "Hóspede", "Como Fazer"]
 ---
 

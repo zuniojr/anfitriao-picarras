@@ -1,8 +1,8 @@
----
+﻿---
 title: "Aceitar Animais de Estimação Pode Aumentar Sua Renda"
 description: "Descubra como tornar seu imóvel pet-friendly e atrair um público fiel, aumentando sua taxa de ocupação e rentabilidade no aluguel por temporada."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1516733725897-1aa73b87c8e8.avif"
+heroImage: "/images/blog/aceitar-animais-de-estimacao-pode-aumentar-sua-renda.avif"
 ---
 
 Você sabia que o mercado pet é um dos que mais cresce no Brasil? Para muitos viajantes, os animais de estimação são membros da família. Permitir que eles se hospedem com seus donos no seu Airbnb em Piçarras pode ser o diferencial que seu imóvel precisa.

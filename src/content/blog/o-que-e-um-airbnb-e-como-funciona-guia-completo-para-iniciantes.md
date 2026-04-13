@@ -1,8 +1,8 @@
----
+﻿---
 title: "O Que É Um Airbnb E Como Funciona? Guia Completo"
 description: "Este guia completo explica tudo o que você precisa saber sobre a plataforma que revolucionou o conceito de hospedagem ao redor do mundo."
 pubDate: 2024-03-31
-heroImage: "/images/blog/unsplash-photo-1502672260266-1c1ef2d93688.avif"
+heroImage: "/images/blog/o-que-e-um-airbnb-e-como-funciona-guia-completo-para-iniciantes.avif"
 tags: ["Airbnb", "Guia", "Iniciantes", "Hospedagem"]
 ---
 

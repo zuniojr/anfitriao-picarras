@@ -39,48 +39,47 @@ function formatDate(date: Date) {
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       {sortedPosts.map((post) => (
-        <article class="group bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-sm transition-all duration-500 hover:shadow-2xl hover:border-orange-500/20 flex flex-col h-full active:scale-[0.98]">
-          <a href={`/${post.slug}/`} target="_blank" class="relative h-64 overflow-hidden block">
-            <img 
-              src={post.data.heroImage} 
-              alt={post.data.title}
-              class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
-            />
-            <div class="absolute inset-0 bg-gradient-to-t from-slate-900/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-            <div class="absolute top-4 left-4">
-              <span class="bg-white/90 backdrop-blur-md px-3 py-1 rounded-lg text-[10px] font-black text-slate-900 uppercase tracking-widest shadow-sm">
-                Blog Post
-              </span>
+        <a 
+          href={`/${post.slug}/`} 
+          class="group bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-sm transition-all duration-500 hover:shadow-2xl hover:border-orange-500/20 flex flex-col h-full active:scale-[0.98]"
+        >
+          <article class="flex flex-col h-full">
+            <div class="relative h-64 overflow-hidden block">
+              <img 
+                src={post.data.heroImage} 
+                alt={post.data.title}
+                class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+              />
+              <div class="absolute inset-0 bg-gradient-to-t from-slate-900/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+              <div class="absolute top-4 left-4">
+                <span class="bg-white/90 backdrop-blur-md px-3 py-1 rounded-lg text-[10px] font-black text-slate-900 uppercase tracking-widest shadow-sm">
+                  Blog Post
+                </span>
+              </div>
             </div>
-          </a>
-          
-          <div class="p-8 flex flex-col flex-1">
-            {/* Data removida a pedido do usuário */}
             
-            <a href={`/${post.slug}/`} target="_blank" class="block group/title mb-4">
-              <h3 class="text-xl font-bold text-slate-900 leading-tight group-hover/title:text-orange-600 transition-colors line-clamp-2">
-                {post.data.title}
-              </h3>
-            </a>
-            
-            <p class="text-slate-600 text-sm leading-relaxed mb-8 line-clamp-3">
-              {post.data.description}
-            </p>
-            
-            <div class="mt-auto">
-                <a 
-                href={`/${post.slug}/`}
-                target="_blank"
-                class="inline-flex items-center gap-2 text-xs font-black uppercase tracking-widest text-slate-900 group-hover:text-orange-600 transition-all duration-300"
-              >
-                Continuar lendo
-                <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
-                </svg>
-              </a>
+            <div class="p-8 flex flex-col flex-1">
+              <div class="mb-4">
+                <h3 class="text-xl font-bold text-slate-900 leading-tight group-hover:text-orange-600 transition-colors line-clamp-2">
+                  {post.data.title}
+                </h3>
+              </div>
+              
+              <p class="text-slate-600 text-sm leading-relaxed mb-8 line-clamp-3">
+                {post.data.description}
+              </p>
+              
+              <div class="mt-auto">
+                <div class="inline-flex items-center gap-2 text-xs font-black uppercase tracking-widest text-slate-900 group-hover:text-orange-600 transition-all duration-300">
+                  Continuar lendo
+                  <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+                  </svg>
+                </div>
+              </div>
             </div>
-          </div>
-        </article>
+          </article>
+        </a>
       ))}
     </div>
   </div>

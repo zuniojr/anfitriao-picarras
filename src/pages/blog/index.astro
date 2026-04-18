@@ -50,7 +50,7 @@ const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDa
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
             {sortedPosts.map((post) => (
               <a 
-                href={`/${post.slug.replace(/^blog\//, '')}/`} 
+                href={`/blog/${post.slug.replace(/^blog\//, '')}/`} 
                 class="group relative bg-white rounded-[2.5rem] overflow-hidden shadow-md border border-slate-100 hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 flex flex-col"
               >
                 <article class="flex flex-col h-full">

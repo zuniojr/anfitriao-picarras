@@ -3,12 +3,5 @@
   "framework": "astro",
   "installCommand": "bun install",
   "buildCommand": "bun run build",
-  "trailingSlash": true,
-  "redirects": [
-    {
-      "source": "/blog/:slug",
-      "destination": "/blog/:slug/",
-      "permanent": true
-    }
-  ]
+  "trailingSlash": true
 }

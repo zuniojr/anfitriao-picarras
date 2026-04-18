@@ -2,5 +2,12 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "astro",
   "installCommand": "bun install",
-  "buildCommand": "bun run build"
+  "buildCommand": "bun run build",
+  "redirects": [
+    {
+      "source": "/blog/(?<slug>[a-zA-Z0-9-]+)/?",
+      "destination": "/$slug",
+      "permanent": true
+    }
+  ]
 }

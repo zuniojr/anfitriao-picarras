@@ -5,8 +5,8 @@
   "buildCommand": "bun run build",
   "redirects": [
     {
-      "source": "/blog/(?<slug>[a-zA-Z0-9-]+)/?",
-      "destination": "/$slug",
+      "source": "/blog/:slug",
+      "destination": "/:slug",
       "permanent": true
     }
   ]

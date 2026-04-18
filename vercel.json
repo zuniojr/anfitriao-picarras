@@ -2,6 +2,6 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "astro",
   "installCommand": "bun install",
-  "buildCommand": "bun run build",
+  "buildCommand": "bun astro build",
   "trailingSlash": true
 }

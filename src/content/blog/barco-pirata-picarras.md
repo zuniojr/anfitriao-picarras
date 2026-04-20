@@ -2,7 +2,7 @@
 title: "Passeio de Barco Pirata em Piçarras: Guia Completo para Famílias"
 description: "Tudo sobre o Barco Pirata em Balneário Piçarras: roteiros, preços, dicas práticas e por que ele é a atração favorita das crianças no litoral catarinense."
 pubDate: 2026-04-20
-heroImage: "/images/blog/barco-pirata-picarras-novo.jpg"
+heroImage: "/images/blog/barco-pirata-captain-jack.jpg"
 tags: ["Balneário Piçarras", "Barco Pirata", "Família", "Turismo", "Passeios"]
 ---
 

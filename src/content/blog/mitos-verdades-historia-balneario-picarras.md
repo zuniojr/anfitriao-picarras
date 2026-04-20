@@ -2,7 +2,7 @@
 title: "Mitos e Verdades sobre Balneário Piçarras: História e Curiosidades"
 description: "De onde vem o nome Piçarras? Existem tesouros piratas? Descubra os mitos e verdades sobre a história da Namorada do Atlântico."
 pubDate: 2026-04-20
-heroImage: "/images/blog/mitos-verdades-historia-balneario-picarras.avif"
+heroImage: "/images/blog/mitos-verdades-historia-picarras-nave.jpg"
 tags: ["Balneário Piçarras", "Curiosidades", "História", "Cultura", "Turismo"]
 ---
 

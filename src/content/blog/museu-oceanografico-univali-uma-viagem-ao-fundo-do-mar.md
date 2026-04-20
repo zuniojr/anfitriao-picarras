@@ -2,7 +2,7 @@
 title: "Museu Oceanográfico Univali: Conheça o Maior Acervo do Gênero nas Américas"
 description: "Visite o Museu Oceanográfico Univali em Balneário Piçarras, o maior da América Latina. Descubra coleções de tubarões, baleias e a magia da vida marinha."
 pubDate: 2026-04-20
-heroImage: "/images/blog/museu-oceanografico-univali-uma-viagem-ao-fundo-do-mar.avif"
+heroImage: "/images/blog/museu-oceanografico-picarras.jpg"
 tags: ["Balneário Piçarras", "Turismo", "Museu", "Ciência", "Educação", "Dicas"]
 ---
 

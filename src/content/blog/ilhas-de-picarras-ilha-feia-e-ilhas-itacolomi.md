@@ -1,43 +1,95 @@
 ---
-title: "Ilhas de Piçarras: Como Visitar a Ilha Feia e as Ilhas Itacolomi"
-description: "Descubra as lendas, os cenários e como planejar sua visita à Ilha Feia e às Ilhas Itacolomi em Balneário Piçarras. Um passeio imperdível!"
+title: "Ilha Feia e Ilhas Itacolomi em Piçarras: Como Visitar e o Que Esperar"
+description: "Conheça a Ilha Feia e as Ilhas Itacolomi em Balneário Piçarras: lendas, como chegar, o que ver e dicas para o passeio perfeito de barco."
 pubDate: 2026-04-20
 heroImage: "/images/blog/ilhas-de-picarras-ilha-feia-itacolomi.avif"
-tags: ["Balneário Piçarras", "Turismo e Lazer", "Natureza"]
+tags: ["Balneário Piçarras", "Ilha Feia", "Ilhas Itacolomi", "Turismo", "Natureza"]
 ---
 
-## Problema
+Se você está na orla de **Balneário Piçarras** e olha para o horizonte, duas formações rochosas chamam a atenção no meio do oceano. São a famosa **Ilha Feia** e as imponentes **Ilhas Itacolomi** — dois tesouros naturais que tornam o passeio de barco em Piçarras uma experiência inesquecível.
 
-Você está em Balneário Piçarras, olha para o horizonte a partir da Praia Central e vê formações no meio do oceano. A curiosidade bate, mas a falta de informação segura trava o passeio. Como chegar lá? Vale a pena o esforço ou é "só pedra"? Será que pode descer na ilha, ou o passeio é apenas de contemplação de longe? Muitas dúvidas podem fazer você perder uma das experiências ecológicas mais ricas de Santa Catarina.
+Neste guia, você vai descobrir as lendas por trás dos nomes, como planejar sua visita e o que esperar de cada uma dessas ilhas que compõem o cenário mais icônico da Namorada do Atlântico.
 
-## Agitação
+---
 
-Sem conhecer as regras do jogo e a beleza escondida nestes recantos, o mar aberto de Piçarras torna-se apenas uma tela de fundo nas fotos. Você pode acabar deixando todo o seu dinheiro no calçadão, comendo e bebendo o dia todo e ignorando completamente uma reserva ecológica que deixaria seus amigos maravilhados e com inveja da sua viagem. Para piorar, alugar embarcações sem roteiro em mente pode transformar sua navegação em uma "volta ao acaso", um desperdício crônico do potencial das férias e do seu recurso.
+## A Ilha Feia: Beleza Escondida por Trás do Nome
 
-## Solução
+Apesar do nome curioso, a **Ilha Feia** é um dos lugares mais bonitos de **Balneário Piçarras**. Localizada a cerca de 20 minutos de navegação da orla, ela recebeu esse nome dos antigos pescadores por causa do seu costão de pedras escuras e aparência rústica quando vista de longe.
 
-A resposta visual do mar de Piçarras é composta por duas estrelas da região: a famosa (e injustiçada) **Ilha Feia** e o imponente arquipélago das **Ilhas Itacolomi**. Veja o que cada uma oferece e como as colocar no seu próximo roteiro de praia:
+### O que você vai encontrar:
 
-### 1. A Lenda e a Beleza da Ilha Feia
-Esqueça o nome — a "Ilha Feia" é um espetáculo natural. Localizada bem próxima da orla, a cerca de 20 minutos de navegação, ela recebeu essa alcunha de antigos pescadores por causa do seu costão de pedras escuras virado para a cidade, sugerindo um lugar rústico e indomável. 
-* **O que ver:** Ao navegar contornando as pedras, você descobre a face oculta. A parte rochosa serve de escudo contra tempestades marítimas. Nos fundos, a ilha abriga piscinas de águas estupendamente cristalinas e preservadas. É abrigo de aves (cormorões e gaivotas) e um prato cheio para o mergulho com máscara.
-* **A Caverna do Diabo:** Uma atração imponente na rocha. Seu interior é perigoso para as pequenas embarcações, mas contemplar de perto o choque da água nessas pedras evoca lendas fantásticas de antigos piratas do litoral catarinense escondendo preciosidades ali.
+- **Piscinas naturais:** Na face protegida da ilha, longe da rebentação, existem áreas de águas cristalinas e calmas — perfeitas para snorkeling
+- **Vida marinha:** A ilha é refúgio de aves marinhas (cormorões, gaivotas e fragatas) e abriga uma rica fauna subaquática
+- **A Caverna do Diabo:** Uma formação rochosa impressionante na base da ilha. O choque das ondas contra as pedras cria um espetáculo visual e sonoro que alimenta as [lendas de piratas e tesouros](/blog/mitos-verdades-historia-balneario-picarras/) da região
+- **Área de preservação:** Por ser um ecossistema protegido, o desembarque na ilha não é permitido. A visitação é feita por contemplação a bordo da embarcação
 
-### 2. O Horizonte Marcado pelas Ilhas Itacolomi
-Mais distantes do que a Ilha Feia, as **Ilhas Itacolomi** despontam à distância, na divisa visual de Piçarras, formadas geologicamente pelo arquipélago que se destaca majestosamente do mar. O nome de origem indígena alude à mãe e ao "menino" (referência às duas pedras proeminentes do cenário).
-* **Pescaria e Visão Panorâmica:** Suas proximidades são amplamente frequentadas por quem ama pescar em alto mar ou simplesmente curtir uma âncora a alguns metros. O local também rende, no pôr do sol, registros cinematográficos que os passageiros contam e nunca se esquecem nas memórias de volta de hospedagem.
+### A lenda do tesouro:
+Reza a tradição local que piratas que navegavam rumo ao Rio da Prata usavam as grutas da Ilha Feia para esconder seus tesouros — história que o [Barco Pirata](/blog/barco-pirata-picarras/) conta com maestria durante seus passeios.
 
-### 3. Como Faço Para Chegar? (Regras de Ouro)
-Você precisa fretar uma experiência náutica (saindo do Rio Piçarras) que lhe leve a elas, seja ela lanchas privadas onde os pilotos criam paradas adequadas com base na claridade do mar e na oscilação dos ventos do dia, ou nos badalados "passeios de Barco Pirata/Escunas", desenhados estritamente na visualização de impacto turístico massivo. Em ambos os casos, não se costuma desembarcar sobre o continente rochoso ou desbravar a mata lá dentro por razões rígidas de ecossistema local (evitar agressões da visita massiva).
+---
+
+## As Ilhas Itacolomi: O Cartão-Postal de Piçarras
+
+Mais distantes da costa do que a Ilha Feia, as **Ilhas Itacolomi** são as formações rochosas que definem o horizonte de **Balneário Piçarras**. O nome tem origem indígena e faz referência a "pedra de menino" — uma alusão às duas rochas proeminentes que parecem uma mãe e seu filho no oceano.
+
+### O que ver e fazer nas proximidades:
+
+- **Pôr do sol cinematográfico:** As Ilhas Itacolomi são o enquadramento perfeito para fotos ao entardecer. As silhuetas das rochas contra o céu alaranjado criam imagens que definem "cartão-postal"
+- **Pesca esportiva:** As águas ao redor são frequentadas por pescadores amadores e profissionais, com boa diversidade de espécies
+- **Fotografias panorâmicas:** De barco, é possível registrar a orla inteira de Piçarras tendo as ilhas como moldura — uma perspectiva que poucos turistas conhecem
+
+---
+
+## Como Visitar as Ilhas: Opções de Passeio
+
+Existem diferentes formas de conhecer a **Ilha Feia** e as **Ilhas Itacolomi**, todas partindo do Rio Piçarras ou da orla central:
+
+| Tipo de Passeio | Duração | Ideal Para | Destaques |
+|---|---|---|---|
+| **Barco Pirata** | 1h30 a 2h | Famílias com crianças | Entretenimento + contemplação da Ilha Feia |
+| **Escunas turísticas** | 2h a 3h | Grupos e casais | Roteiro completo com paradas para mergulho |
+| **Lanchas particulares** | Sob demanda | Casais e experiências VIP | Flexibilidade total de roteiro e horários |
+| **Caiaques/SUP** | 1h+ | Aventureiros experientes | Apenas Ilha Feia (com condições de mar favoráveis) |
+
+**Dica importante:** Os passeios dependem das condições climáticas e do mar. Dias com pouco vento e céu aberto oferecem a melhor visibilidade e as águas mais cristalinas ao redor das ilhas.
+
+👉 **Saiba mais:** [Passeio de Barco Pirata em Piçarras](/blog/barco-pirata-picarras/) | [Esportes aquáticos em Piçarras](/blog/esportes-aquaticos-em-picarras-surf-stand-up-e-jet-ski/)
+
+---
+
+## Dicas Práticas para o Passeio
+
+- **Protetor solar à prova d'água:** O reflexo do sol na água é intenso durante a navegação
+- **Câmera protegida:** Use capas impermeáveis ou gopro para registrar os momentos na água
+- **Agasalho leve:** Mesmo no verão, o vento no mar aberto pode refrescar bastante
+- **Remédio para enjoo:** Se você tem sensibilidade ao balanço, tome o medicamento preventivo 30 minutos antes do embarque
+
+---
 
 ## Conclusão
 
-Desvendar a face atrás da denominação inusitada da "Ilha Feia" ou acompanhar o repouso solene de "mãe e filho" das rochas das Ilhas Itacolomi traz o elemento da aventura que qualquer bom diário de bordo pede. Seja numa embarcação temática com as crianças cantando e admirando marujos falsos ou abraçado a sua esposa em luxo exclusivo — o pacote das águas precisa da presença deles no coração do seu projeto!
+A **Ilha Feia** e as **Ilhas Itacolomi** são muito mais do que formações rochosas no horizonte de **Balneário Piçarras** — elas são guardiãs da história, da biodiversidade e da beleza selvagem da costa catarinense. Navegar até elas é adicionar uma camada de aventura e encantamento que transforma férias comuns em experiências memoráveis. Escolha seu tipo de embarcação, respeite a natureza e prepare-se para ver Piçarras de um ângulo que poucos conhecem!
 
-***
+---
 
-### CTA (Chamada para Ação)
+## Perguntas Frequentes
 
-**Para Turistas:** Voltar dessas ilhas maravilhosas, colocar a chave na porta de um apartamento decorado de altíssimo padrão e tomar um belo banho com estrutura faz o passeio virar 100%. [Veja que opções te esperam em Piçarras com a nossa equipe de excelência no Anfitrião.](/)
+### Pode desembarcar na Ilha Feia?
+Não. A Ilha Feia é uma área de preservação ecológica. A visitação é feita por contemplação a bordo das embarcações, sem desembarque.
 
-**Para Proprietários:** Explorar a beleza da costa ajuda todo tipo de proprietário em aluguel no crescimento massivo. Se quer um modelo completo para rentabilizar de forma profissional na praia. [Somos especialistas nisso e criamos muito lucro no seu caminho. Clique para avaliação.](/gestao-de-imoveis)
+### Quanto custa o passeio de barco até as ilhas de Piçarras?
+Os valores variam conforme o tipo de embarcação e temporada. Passeios em escunas coletivas costumam ser mais acessíveis, enquanto lanchas particulares oferecem experiências personalizadas a preços premium.
+
+### Qual a melhor época para visitar as ilhas?
+O verão (dezembro a março) oferece as melhores condições de mar e visibilidade. Dias de sol com pouco vento são ideais para snorkeling nas proximidades da Ilha Feia.
+
+### As ilhas são visíveis da praia de Piçarras?
+Sim! Tanto a Ilha Feia quanto as Ilhas Itacolomi são visíveis a olho nu da orla central de Balneário Piçarras, especialmente em dias de céu limpo.
+
+---
+
+### Reserve sua Estadia
+
+**Para Turistas:** Quer acordar com a vista das ilhas pela janela do seu apartamento? [Confira nossos imóveis com vista mar na Anfitrião Piçarras e viva o cenário mais icônico do litoral.](/)
+
+**Para Proprietários:** Imóveis com vista para as ilhas têm valorização premium e atraem hóspedes dispostos a pagar mais pela experiência. [Quer maximizar esse potencial? Fale com a Anfitrião Piçarras.](/gestao-de-imoveis)

@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 
 const posts = await getCollection('blog');
-const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()).slice(0, 3);
+const sortedPosts = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()).slice(0, 6);
 
 function formatDate(date: Date) {
   return date.toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
